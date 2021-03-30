@@ -36,88 +36,108 @@ Major in Mathematics and Statistics (Pure Mathematics), Minor in Physics
 
 ## REFEREED PUBLICATIONS
 
-* _Reduction of the maximum mass-loss rate of OH/IR stars due to unnoticed binary interaction_
+* __Reduction of the maximum mass-loss rate of OH/IR stars due to unnoticed binary interaction__
+
 L. Decin, W. Homan, T. Danilovich, A. de Koter, D. Engels, L. B. F. M. Waters, S. Muller, C. Gielen, D. A. García-
 Hernández, R. J. Stancliffe, M. Van de Sande, G. Molenberghs, F. Kerschbaum, A. A. Zijlstra and I. El Mellah
 Nature Astronomy, Vol 3, Issue 3, page 213 (Published 25/02/2019)
 
-* _An ALMA view of CS and SiS around oxygen-rich AGB stars_
+* __An ALMA view of CS and SiS around oxygen-rich AGB stars__
+
 T. Danilovich, A. M. S. Richards, A. I. Karakas, M. Van de Sande, L. Decin, and F. De Ceuster
 Monthly Notices of the Royal Astronomical Society, 484, 494–509 (2019)
 
-* _PACS and SPIRE range spectroscopy of cool, evolved stars_
+* __PACS and SPIRE range spectroscopy of cool, evolved stars__
+
 D. Nicolaes, M. A. T. Groenewegen, P. Royer, R. Lombaert, T. Danilovich, and L. Decin
 Astronomy & Astrophysics, 618, A143 (2018)
 
-* _Sulphur-bearing molecules in AGB stars II: Abundances and distributions of CS and SiS_
+* __Sulphur-bearing molecules in AGB stars II: Abundances and distributions of CS and SiS__
+
 T. Danilovich, S. Ramstedt, D. Gobrecht, L. Decin, E. De Beck, and H. Olofsson
 Astronomy & Astrophysics, 617, A132 (2018)
 
-* _Molecular line study of the S-type AGB star W Aquilae: ALMA observations of CS, SiS, SiO and HCN_
+* __Molecular line study of the S-type AGB star W Aquilae: ALMA observations of CS, SiS, SiO and HCN__
+
 M. Brunner, T. Danilovich, S. Ramstedt, I. Marti-Vidal, E. De Beck, W.H.T. Vlemmings, M. Lindqvist, and
 F. Kerschbaum
 Astronomy & Astrophysics, 617, A23 (2018)
 
-* _Molecular Data Needs for Modelling AGB Stellar Winds and Other Molecular Environments_
+* __Molecular Data Needs for Modelling AGB Stellar Winds and Other Molecular Environments__
+
 T. Danilovich, L. Decin, and M. Van de Sande
 Galaxies 2018, 6(3), 86 (Special Issue: "Atomic and Molecular Data Needs for Astronomy and Astrophysics”)
 
-* _ALMA detects a nearly edge-on rotating disk around the nearby AGB star R Doradus_
+* __ALMA detects a nearly edge-on rotating disk around the nearby AGB star R Doradus__
+
 W. Homan, T. Danilovich, L. Decin, A. de Koter, J. Nuth, and M. Van de Sande
 Astronomy & Astrophysics, 613, A113 (2018)
 
-* _Constraints on metal oxide and metal hydroxide abundances in the winds of AGB stars – Potential detection of FeO in R Dor_
+* __Constraints on metal oxide and metal hydroxide abundances in the winds of AGB stars – Potential detection of FeO in R Dor__
+
 L. Decin, T. Danilovich, D. Gobrecht, J. M. C. Plane, A. M. S. Richards, C. A. Gottlieb, and K. L. K. Lee
 The Astrophysical Journal, 855:113 (2018)
 
-* _ALMA spectral line and imaging survey of a low and a high mass-loss rate AGB star between 335 and 362 GHz_
+* __ALMA spectral line and imaging survey of a low and a high mass-loss rate AGB star between 335 and 362 GHz__
+
 L. Decin, A. M. S. Richards, T. Danilovich, W. Homan, and J. A. Nuth
 Astronomy & Astrophysics, 615, A28 (2018)
 
-* _Study of the aluminium content in AGB winds using ALMA: Indications for the presence of gas-phase (Al2O3)n clusters_
+* __Study of the aluminium content in AGB winds using ALMA: Indications for the presence of gas-phase (Al2O3)n clusters__
+
 L. Decin, A. M. S. Richards, L. B. F. M. Waters, T. Danilovich, D. Gobrecht, T. Khouri, W. Homan, J. M. Bakker,
 M. Van de Sande, J. A. Nuth, and E. De Beck
 Astronomy & Astrophysics, 608, A55 (2017)
 
-* _Sulphur-bearing molecules in AGB stars I: The occurrence of hydrogen sulphide_
+* __Sulphur-bearing molecules in AGB stars I: The occurrence of hydrogen sulphide__
+
 T. Danilovich, M. Van de Sande, E. De Beck, L. Decin, H. Olofsson, S. Ramstedt, and T. J. Millar
 Astronomy & Astrophysics, 606, A124 (2017)
 
-* _The circumstellar envelope around the S-type AGB star W Aql. Effects of an eccentric binary orbit_
+* __The circumstellar envelope around the S-type AGB star W Aql. Effects of an eccentric binary orbit__
+
 S. Ramstedt, S. Mohamed, W. H. T. Vlemmings, T. Danilovich, M. Brunner, E. De Beck, E. M. L. Humphreys,
 M. Lindqvist, M. Maercker, H. Olofsson, F. Kerschbaum, and G. Quintana-Lacaci
 Astronomy & Astrophysics, 605, A126 (2017)
 
-* _Water isotopologues in the circumstellar envelopes of M-type AGB stars_
+* __Water isotopologues in the circumstellar envelopes of M-type AGB stars__
+
 T. Danilovich, R. Lombaert, L. Decin, A. Karakas, M. Maercker, H. Olofsson
 Astronomy & Astrophysics, 602, A14 (2017)
 
-* _H12CN and H13CN excitation analysis in the circumstellar outflow of R Scl_
+* __H12CN and H13CN excitation analysis in the circumstellar outflow of R Scl__
+
 M. Saberi, M. Maercker, E. De Beck, W. H. T. Vlemmings, H. Olofsson, T. Danilovich
 Astronomy & Astrophysics, 599, A63 (2017)
 
-* _A HIFI view on circumstellar H2O in M-type AGB stars: radiative transfer, velocity profiles, and H2O line cooling_
+* __A HIFI view on circumstellar H2O in M-type AGB stars: radiative transfer, velocity profiles, and H2O line cooling__
+
 M. Maercker, T. Danilovich, H. Olofsson, E. De Beck, K. Justtanont, R. Lombaert, P. Royer
 Astronomy & Astrophysics 591, A44 (2016)
 
-* _Sulphur molecules in the circumstellar envelopes of M-type AGB stars_
+* __Sulphur molecules in the circumstellar envelopes of M-type AGB stars__
+
 T. Danilovich, E. De Beck, J. H. Black, H. Olofsson, and K. Justtanont
 Astronomy & Astrophysics 588, A119 (2016)
 
-* _New observations and models of circumstellar line emission of AGB stars in the Herschel SUCCESS programme_
+* __New observations and models of circumstellar line emission of AGB stars in the Herschel SUCCESS programme__
+
 T. Danilovich, D. Teyssier, K. Justtanont, H. Olofsson, L. Cerrigone, V. Bujarrabal, J. Alcolea, J. Cernicharo, A. Castro-
 Carrizo, P. García-Lario, and A. Marston
 Astronomy & Astrophysics 581, A60 (2015)
 
-* _Classifying the secondary component of the binary star W Aquilae_
+* __Classifying the secondary component of the binary star W Aquilae__
+
 T. Danilovich, G. Olofsson, J. H. Black, K. Justtanont, and H. Olofsson
 Astronomy & Astrophysics 574, A23 (2015)
 
-* _Detailed modelling of the circumstellar molecular line emission of the S-type AGB star W Aquilae_
+* __Detailed modelling of the circumstellar molecular line emission of the S-type AGB star W Aquilae__
+
 T. Danilovich, P. Bergman, K. Justtanont, R. Lombaert M. Maercker, H. Olofsson, S. Ramstedt and P. Royer
 Astronomy & Astrophysics 569, A76 (2014)
 
-* _The fundamental manifold of spiral galaxies: ordered versus random motions and the morphology dependence of the Tully-Fisher relation_
+* __The fundamental manifold of spiral galaxies: ordered versus random motions and the morphology dependence of the Tully-Fisher relation__
+
 C. Tonini, D. H. Jones, J. Mould, R. L. Webster, T. Danilovich and S. Ozbilgen
 Monthly Notices of the Royal Astronomical Society, 438, 3332–3339 (2014)
 
