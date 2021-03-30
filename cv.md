@@ -51,30 +51,21 @@ A conference in the honour of Hans Olofsson, Smögen, Sweden
 — A symposium in honour of John H. Black, Gothenburg, Sweden
 * March 2019, *“The dependence of chemistry on circumstellar parameters”*, Seminar, Université Libre
 de Bruxelles, Brussels
-
 * April 2018, *“Modelling needs for warm molecular outflows”*, European Week of Astronomy and Space Science,
 Liverpool, UK
-
 * February 2017, *“The occurrence of H2S in AGB stars”*, Getting Ready for ALMA Band 5, Garching, Germany
-
 * May 2016, *“Sulphur-bearing molecules in the circumstellar envelopes of AGB stars”*, Colloquium, University of
 Melbourne, Australia
-
 * May 2016, *“Sulphur-bearing molecules in the circumstellar envelopes of AGB stars”*, Seminar, Monash University,
 Melbourne, Australia
-
 * October 2015, *“Sulphur molecules in the AGB star R Doradus”*, Astronomdagarna, Uppsala, Sweden
-
 * October 2013, *“Circumstellar envelopes of S type AGB stars”*, Astronomdagarna, Lund, Sweden
-
 * July 2013, *“Mass-loss and the circumstellar environment of S type AGB stars”*, 2013 Annual Scientific Meeting of
 the Astronomical Society of Australia, Melbourne, Australia
-
 * December 2010, *“The physical basis of the Tully-Fisher relation”*, 19th Australian Institute of Physics Congress,
 Melbourne, Australia
 
 ## POSTERS
-
  * August 2018, *“Unravelling the sulphur chemistry of AGB stars”*, IAU Symposium 343: Why Galaxies Care About AGB Stars, Vienna, Austria
  * July 2015, *“Sulphur-bearing molecules in the AGB star R Doradus”*, ESO STEPS Workshop, Garching, Germany
  * July 2014, *“Detailed modelling of the circumstellar line emission around the S star W Aquilae"*, Why Galaxies Care About AGB Stars III, Vienna, Austria
@@ -85,7 +76,6 @@ Melbourne, Australia
  * September 2010, *“The importance of understanding the Tully-Fisher relation”*, UpSkills GR Poster Competition, 2nd Place, the Melbourne School of Graduate Research
 
 ## CONFERENCE PROCEEDINGS
-
 * __Detailed Modelling of the Circumstellar Envelope of the S-type AGB Star W Aquilae__  
 T. Danilovich, P. Bergman, K. Justtanont, R. Lombaert M. Maercker, H. Olofsson, S. Ramstedt and P. Royer
 
@@ -94,13 +84,11 @@ Proceedings of a conference held 28 July – 1 August 2014, at University Campus
 Edited by F. Kerschbaum, R. F. Wing, and J. Hron. ASP Conference Series, Vol. 497. San Francisco: Astronomical Society of the Pacific, 2015
 
 ## GRANTS AWARDED
-
 * 2014, “Forskningsstipendium” travel grant of 13 000 kr from The Royal Swedish Academy of Sciences (KVA)
 * 2013, “Chalmersska forskningsfonden” travel grant of 7000 kr from Chalmers University of Technology
 * 2012, “Stiftelsen Hiera-Retzius stipendiefond” grant of 15 000 kr from The Royal Swedish Academy of Sciences (KVA)
 
 ## ACCEPTED OBSERVING PROPOSALS AS PRIMARY INVESTIGATOR
-
 * Danilovich et al, Initial mass estimates for AGB stars from oxygen isotopes, ALMA, 2019, ID: 2019.1.00187.S
 * Danilovich et al, H2S towards extreme OH/IR stars (continuation), APEX, 2018, ID: 103.F-9302 (10.4 hours awarded)
 * Danilovich et al, H2S towards extreme OH/IR stars, APEX, 2018, ID: 102.F-9301 (15.1 hours awarded)
@@ -111,7 +99,6 @@ Edited by F. Kerschbaum, R. F. Wing, and J. Hron. ASP Conference Series, Vol. 49
 * Danilovich et al, Investigating W Aql's companion when the AGB star is at minimum brightness, Nordic Optical Telescope, 2012, ID: 45-411 (1.6 hours awarded)
 
 ## ACCEPTED OBSERVING PROPOSALS AS CO-INVESTIGATOR
-
 * M. Montargès, L. Decin, C. Gottleib, T. Khouri, W. Homan, T. Danilovich, and 21 co-Is, Tracing the origins of dust
 species in oxygen-rich M-type stars through an ambitious multi-wavelength approach, VLT & VLTI, 2018, ID:
 0103.D-0772 (28.8 hours awarded)
@@ -137,7 +124,6 @@ the superwind phase of oxygen-rich asymptotic giant branch stars, ALMA Cycle 4 (
 Circumstellar Envelopes with Herschel/HIFI: the millimetre-wave counterpart, IRAM 30 m, 2012, ID: 166-12
 
 ## SUPERVISION
-
 * Lisa Decock (MSc), thesis research project “In-depth comparison of two high mass-loss rate AGB stars” undertaken
 over the Belgian academic year 2020-2021 at KU Leuven.
 * Ciara O’Sullivan (MSc), co-supervisor of thesis research project “ATOMIUM: Tracing the origins of dust in evolved
@@ -149,7 +135,6 @@ stars” completed over the Belgian academic years 2019–2021 at KU Leuven.
 and CS” completed over the Belgian academic year 2016–2017 at KU Leuven.
 
 ## TEACHING
-
 * Tutor, Institute of Astronomy, KU Leuven, Belgium 2017 – present  
 * TA, Dept of Earth and Space Sciences, Chalmers University of Technology, Sweden 2014 – 2015  
 * Tutor, Dept of Earth and Space Sciences, Chalmers University of Technology, Sweden 2012 – 2016  
@@ -160,10 +145,7 @@ and CS” completed over the Belgian academic year 2016–2017 at KU Leuven.
 * Teaching Assistant, School of Physics, University of Melbourne, Parkville, Australia 2010  
 * Private Tutor, Australia 2006 – 2010  
 
-
-
 ## OUTREACH
-
 * Day of Science (Dag van de Wetenschap), Leuven, Belgium 2018
 * Open Door Day, Science Faculty, KU Leuven, Belgium 2017
 * Outreach, Onsala Space Observatory, Sweden 2011 – 2016
@@ -174,7 +156,6 @@ and CS” completed over the Belgian academic year 2016–2017 at KU Leuven.
 
 ## MEMBERSHIPS
 Member of the Astronomical Society of Australia 2011 – present
-
 
 ## OTHER ROLES AND RESPONSIBILITIES
 * Refereeing 2018 – present
