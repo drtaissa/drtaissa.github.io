@@ -74,7 +74,6 @@ W. Homan, T. Danilovich, L. Decin, A. de Koter, J. Nuth, and M. Van de Sande
 Astronomy & Astrophysics, 613, A113 (2018)
 
 * __Constraints on metal oxide and metal hydroxide abundances in the winds of AGB stars – Potential detection of FeO in R Dor__
-
 L. Decin, T. Danilovich, D. Gobrecht, J. M. C. Plane, A. M. S. Richards, C. A. Gottlieb, and K. L. K. Lee
 The Astrophysical Journal, 855:113 (2018)
 
