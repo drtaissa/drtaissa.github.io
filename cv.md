@@ -150,40 +150,40 @@ and CS” completed over the Belgian academic year 2016–2017 at KU Leuven.
 
 ## TEACHING
 
-* __Tutor, Institute of Astronomy, KU Leuven, Belgium 2017 – present__  
-* __TA, Dept of Earth and Space Sciences, Chalmers University of Technology, Sweden 2014 – 2015__  
-* __Tutor, Dept of Earth and Space Sciences, Chalmers University of Technology, Sweden 2012 – 2016__  
-* __Exam Marker, School of Physics, University of Melbourne, Parkville, Australia 2009 – 2011__  
-* __Tutor, School of Physics, University of Melbourne, Parkville, Australia 2010 – 2011__  
-* __Laboratory Notes Revisor, School of Physics, University of Melbourne, Parkville, Australia 2010 – 2011__  
-* __Laboratory Demonstrator, School of Physics, University of Melbourne, Parkville, Australia 2009 – 2011__  
-* __Teaching Assistant, School of Physics, University of Melbourne, Parkville, Australia 2010__  
-* __Private Tutor, Australia 2006 – 2010__  
+* Tutor, Institute of Astronomy, KU Leuven, Belgium 2017 – present  
+* TA, Dept of Earth and Space Sciences, Chalmers University of Technology, Sweden 2014 – 2015  
+* Tutor, Dept of Earth and Space Sciences, Chalmers University of Technology, Sweden 2012 – 2016  
+* Exam Marker, School of Physics, University of Melbourne, Parkville, Australia 2009 – 2011  
+* Tutor, School of Physics, University of Melbourne, Parkville, Australia 2010 – 2011  
+* Laboratory Notes Revisor, School of Physics, University of Melbourne, Parkville, Australia 2010 – 2011  
+* Laboratory Demonstrator, School of Physics, University of Melbourne, Parkville, Australia 2009 – 2011  
+* Teaching Assistant, School of Physics, University of Melbourne, Parkville, Australia 2010  
+* Private Tutor, Australia 2006 – 2010  
 
 
 
 ## OUTREACH
 
-* __Day of Science (Dag van de Wetenschap), Leuven, Belgium 2018__
-* __Open Door Day, Science Faculty, KU Leuven, Belgium 2017__
-* __Outreach, Onsala Space Observatory, Sweden 2011 – 2016__
-* __Work Experience, School of Physics, University of Melbourne, Parkville, Australia 2010 – 2011__
-* __Student Host at Orientation Week, University of Melbourne, Parkville, Australia 2008, 2010__
-* __Open Day Guide, University of Melbourne, Parkville, Australia 2008 – 2009__
-* __n-2-Science Mentor, Melbourne, Australia 2007__
+* Day of Science (Dag van de Wetenschap), Leuven, Belgium 2018
+* Open Door Day, Science Faculty, KU Leuven, Belgium 2017
+* Outreach, Onsala Space Observatory, Sweden 2011 – 2016
+* Work Experience, School of Physics, University of Melbourne, Parkville, Australia 2010 – 2011
+* Student Host at Orientation Week, University of Melbourne, Parkville, Australia 2008, 2010
+* Open Day Guide, University of Melbourne, Parkville, Australia 2008 – 2009
+* n-2-Science Mentor, Melbourne, Australia 2007
 
 ## MEMBERSHIPS
-__Member of the Astronomical Society of Australia 2011 – present__
+Member of the Astronomical Society of Australia 2011 – present
 
 
 ## OTHER ROLES AND RESPONSIBILITIES
-* __Refereeing 2018 – present__
-* __Research group organisational duties 2017 – present__
-* __Astronomer on Duty, Mercator, La Palma, Spain 2017__
-* __Astronomer on Duty, APEX, Chile 2012__
-* __Member of the Women in Physics Committee, University of Melbourne, Parkville 2010 – 2011__
-* __Graduate Transition Roles, University of Melbourne, Parkville 2010__
-* __Member of Student-Staff Liaison Committee, University of Melbourne, Parkville 2007 – 2009__
+* Refereeing 2018 – present
+* Research group organisational duties 2017 – present
+* Astronomer on Duty, Mercator, La Palma, Spain 2017
+* Astronomer on Duty, APEX, Chile 2012
+* Member of the Women in Physics Committee, University of Melbourne, Parkville 2010 – 2011
+* Graduate Transition Roles, University of Melbourne, Parkville 2010
+* Member of Student-Staff Liaison Committee, University of Melbourne, Parkville 2007 – 2009
 
 ## OTHER SKILLS
 * Competent at reducing radio spectral data, has worked with interferometric data and has experience with optical
@@ -200,18 +200,16 @@ rudimentary Korean
 ## REFEREES
 
 ####   Prof Leen Decin
-Current group leader
-Institute for Astronomy, KU Leuven
+Current group leader  
+Institute for Astronomy, KU Leuven  
 Email: [leen.decin@kuleuven.be](mailto:leen.decin@kuleuven.be)
 
-
 ####  Prof Hans Olofsson
-PhD supervisor
-Onsala Space Observatory, Chalmers University of Technology
+PhD supervisor  
+Onsala Space Observatory, Chalmers University of Technology  
 Email: [hans.olofsson@chalmers.se](mailto:hans.olofsson@chalmers.se)
 
-
 #### Dr Sofia Ramstedt
-Collaborator
-Department of Physics and Astronomy, Astronomy and Space Physics, Uppsala University
+Collaborator  
+Department of Physics and Astronomy, Astronomy and Space Physics, Uppsala University  
 Email: [sofia.ramstedt@physics.uu.se](mailto:sofia.ramstedt@physics.uu.se)
