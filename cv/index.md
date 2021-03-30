@@ -3,8 +3,9 @@ title: Dr. Taissa Danilovich CV
 layout: default
 ---
 # Dr.Taïssa Danilovich
-    [taissa.danilovich@kuleuven.be](mailto:taissa.danilovich@kuleuven.be)
-    [tdanilovich@gmail.com](mailto:tdanilovich@gmail.com)
+###Email:
+[taissa.danilovich@kuleuven.be](mailto:taissa.danilovich@kuleuven.be)
+[tdanilovich@gmail.com](mailto:tdanilovich@gmail.com)
 
 ## EMPLOYMENT
 
