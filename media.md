@@ -1,5 +1,5 @@
 ---
-title: Dr Taissa Danilovich Media
+title: Media
 layout: default
 ---
 # Outreach Media
