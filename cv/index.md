@@ -159,21 +159,21 @@ Melbourne, Australia
 
 ## POSTERS
 
- * August 2018, “Unravelling the sulphur chemistry of AGB stars”, IAU Symposium 343: Why Galaxies Care About AGB Stars, Vienna, Austria
- * July 2015, “Sulphur-bearing molecules in the AGB star R Doradus”, ESO STEPS Workshop, Garching, Germany
- * July 2014, “Detailed modelling of the circumstellar line emission around the S star W Aquilae", Why Galaxies Care About AGB Stars III, Vienna, Austria
- * March 2013, “Chemical inventory of AGB star W Aquilae with Herschel HIFI”, SRS meeting (Svenska Rymdforskares Samarbetsgrupp), Kiruna, Sweden
- * June 2012, “Modelling the AGB star W Aquilae”, Chemistry and Infrared Spectroscopy of Interstellar Dust Summer School, Cuijk, the Netherlands
- * July 2011, “Is there a third parameter in the Tully-Fisher relation?”, 2011 Annual Scientific Meeting of the Astronomical Society of Australia, Adelaide, Australia
- * May 2011, “Do disk galaxies have different central velocity dispersions at a given rotational velocity?” 218th Meeting of the American Astronomical Society, Boston, USA
- * September 2010, “The importance of understanding the Tully-Fisher relation”, UpSkills GR Poster Competition, 2nd Place, the Melbourne School of Graduate Research
+ * August 2018, *“Unravelling the sulphur chemistry of AGB stars”*, IAU Symposium 343: Why Galaxies Care About AGB Stars, Vienna, Austria
+ * July 2015, *“Sulphur-bearing molecules in the AGB star R Doradus”*, ESO STEPS Workshop, Garching, Germany
+ * July 2014, *“Detailed modelling of the circumstellar line emission around the S star W Aquilae"*, Why Galaxies Care About AGB Stars III, Vienna, Austria
+ * March 2013, *“Chemical inventory of AGB star W Aquilae with Herschel HIFI”*, SRS meeting (Svenska Rymdforskares Samarbetsgrupp), Kiruna, Sweden
+ * June 2012, *“Modelling the AGB star W Aquilae”*, Chemistry and Infrared Spectroscopy of Interstellar Dust Summer School, Cuijk, the Netherlands
+ * July 2011, *“Is there a third parameter in the Tully-Fisher relation?”*, 2011 Annual Scientific Meeting of the Astronomical Society of Australia, Adelaide, Australia
+ * May 2011, *“Do disk galaxies have different central velocity dispersions at a given rotational velocity?”* 218th Meeting of the American Astronomical Society, Boston, USA
+ * September 2010, *“The importance of understanding the Tully-Fisher relation”*, UpSkills GR Poster Competition, 2nd Place, the Melbourne School of Graduate Research
 
 ## CONFERENCE PROCEEDINGS
 
-### Detailed Modelling of the Circumstellar Envelope of the S-type AGB Star W Aquilae
+* __Detailed Modelling of the Circumstellar Envelope of the S-type AGB Star W Aquilae__  
 T. Danilovich, P. Bergman, K. Justtanont, R. Lombaert M. Maercker, H. Olofsson, S. Ramstedt and P. Royer
 
-### “Why Galaxies Care about AGB Stars III: A Closer Look in Space and Time”,
+* __“Why Galaxies Care about AGB Stars III: A Closer Look in Space and Time”__,  
 Proceedings of a conference held 28 July – 1 August 2014, at University Campus, Vienna, Austria.
 Edited by F. Kerschbaum, R. F. Wing, and J. Hron. ASP Conference Series, Vol. 497. San Francisco: Astronomical Society of the Pacific, 2015
 
@@ -181,14 +181,11 @@ Edited by F. Kerschbaum, R. F. Wing, and J. Hron. ASP Conference Series, Vol. 49
 
 * 2014, “Forskningsstipendium” travel grant of 13 000 kr from The Royal Swedish Academy of Sciences (KVA)
 * 2013, “Chalmersska forskningsfonden” travel grant of 7000 kr from Chalmers University of Technology
-* 2012, “Stiftelsen Hiera-Retzius stipendiefond” grant of 15 000 kr from The Royal Swedish Academy of Sciences
-(KVA)
-
-
-
+* 2012, “Stiftelsen Hiera-Retzius stipendiefond” grant of 15 000 kr from The Royal Swedish Academy of Sciences (KVA)
 
 ## ACCEPTED OBSERVING PROPOSALS AS PRIMARY INVESTIGATOR
 
+* Danilovich et al, Initial mass estimates for AGB stars from oxygen isotopes, ALMA, 2019, ID: 2019.1.00187.S
 * Danilovich et al, H2S towards extreme OH/IR stars (continuation), APEX, 2018, ID: 103.F-9302 (10.4 hours awarded)
 * Danilovich et al, H2S towards extreme OH/IR stars, APEX, 2018, ID: 102.F-9301 (15.1 hours awarded)
 * Danilovich et al, A spectral survey of low and intermediate mass-loss rate carbon stars, APEX, 2016, ID:099.D-0750 (36 hours awarded)
@@ -207,7 +204,6 @@ Origins of Molecules In dUst-forming oxygen-rich M-type stars, ALMA Cycle 6 (201
 2018.1.00659.L
 * S. Ramstedt, E. De Beck, T. Danilovich, and 19 co-Is, DEATHSTAR: The S-type stars, ALMA Cycle 6 (2018–2019),
 ID: 2018.1.01434.S
-
 * S. Ramstedt, E. De Beck, T. Danilovich, and 20 co-Is, DEATH STAR: DEtermining Accurate mass-loss rates of
 THermally pulsing AGB STARs, ALMA Cycle 5 (2017–2018), ID: 2017.1.00595.S
 * S. Ramstedt, W. Vlemmings, E. De Beck, T. Danilovich, and 8 co-Is, Improving the accuracy of mass-loss-rate
@@ -224,9 +220,6 @@ the superwind phase of oxygen-rich asymptotic giant branch stars, ALMA Cycle 4 (
 * D. Teyssier, L. Cerrigone, J. Cernicharo, J. Alcolea, A. Castro-Carrizo, H, Olofsson, K. Justtanont, T. Danilovich,
 Circumstellar Envelopes with Herschel/HIFI: the millimetre-wave counterpart, IRAM 30 m, 2012, ID: 166-12
 
-
-
-
 ## SUPERVISION
 
 * Lisa Decock (MSc), thesis research project “In-depth comparison of two high mass-loss rate AGB stars” undertaken
@@ -239,43 +232,39 @@ stars” completed over the Belgian academic years 2019–2021 at KU Leuven.
 * Siemen Burssens (MSc) thesis research project “Molecular analysis of the oxygen-rich AGB star V1300 Aql: CO, SiS
 and CS” completed over the Belgian academic year 2016–2017 at KU Leuven.
 
-
-
-
 ## TEACHING
 
-
-### Tutor, Institute of Astronomy, KU Leuven, Belgium 2017 – present
+* __Tutor, Institute of Astronomy, KU Leuven, Belgium 2017 – present__
 I led the exercise and assignment classes for the Stellar Atmospheres and Stellar Winds Masters level course. This
 involved setting and explaining the assignments, and generally facilitating the students’ understanding of the topics.
 
-### TA, Dept of Earth and Space Sciences, Chalmers University of Technology, Sweden 2014 – 2015
+* __TA, Dept of Earth and Space Sciences, Chalmers University of Technology, Sweden 2014 – 2015__  
 As teaching assistant for the Masters level course Stellar Physics, I wrote an assignment in consultation with the
 lecturer for the subject and marked the assignments handed in by the students.
 
-### Tutor, Dept of Earth and Space Sciences, Chalmers University of Technology, Sweden 2012 – 2016
+* __Tutor, Dept of Earth and Space Sciences, Chalmers University of Technology, Sweden 2012 – 2016__  
 I led exercise classes for the Space Science and Techniques Masters level course. This involved going through
 assigned problems with the class of 15–25 students and answering their questions in person and via email.
 
-### Exam Marker, School of Physics, University of Melbourne, Parkville, Australia 2009 – 2011
+* __Exam Marker, School of Physics, University of Melbourne, Parkville, Australia 2009 – 2011__  
 As part of a team, I marked first year undergraduate physics exams. We were each given a question and asked to
 grade that question according to a mark scheme on 300–500 students’ exams. I worked in a small group of two or
 three to ensure that the question we marked was marked fairly and consistently over the entire cohort.
 
-### Tutor, School of Physics, University of Melbourne, Parkville, Australia 2010 – 2011
+* __Tutor, School of Physics, University of Melbourne, Parkville, Australia 2010 – 2011__  
 I took tutorial classes of undergraduate physics students. With classes of 12–20 students, I revised the material they
 had learnt in lectures the previous week and helped them work through exercises. My role also included shifts in the
 First Year Learning Centre, where first years physics students could come in during their lunch breaks and have any
 questions they had answered. I also marked tests and assignments.
 
-### Laboratory Notes Revisor, School of Physics, University of Melbourne, Parkville, Australia 2010 – 2011
+* __Laboratory Notes Revisor, School of Physics, University of Melbourne, Parkville, Australia 2010 – 2011__  
 I revised first year physics lab notes to reflect changes in the course and structure of the laboratory work. Given some
 basic guidelines as to the length the laboratory exercises needed to be and what needed to be added in or taken out,
 I edited, rewrote and rearranged the existing laboratory notes to meet the new guidelines. This included making up
 some new exercises for the students to do, allocating marks for various sections of each laboratory exercise and
 restructuring the exercises to fit into new time constraints.
 
-### Laboratory Demonstrator, School of Physics, University of Melbourne, Parkville, Australia 2009 – 2011
+* __Laboratory Demonstrator, School of Physics, University of Melbourne, Parkville, Australia 2009 – 2011__  
 I ran lab classes for first year undergraduate physics students. This entailed supervising a group of twelve to eighteen
 students while they performed a practical exercise as well as offering them help and advice. My role in each class
 was to teach them what they needed to know to do the practical, especially if they had not yet covered the physics
@@ -283,50 +272,50 @@ in lectures, and to make sure they stayed on track for the three hour session. A
 books, which accounted for the 20% laboratory work contribution to their final physics mark.
 
 
-### Teaching Assistant, School of Physics, University of Melbourne, Parkville, Australia 2010
+* __Teaching Assistant, School of Physics, University of Melbourne, Parkville, Australia 2010__  
 I assisted a lecturer teaching Introduction to Climate Change to undergraduate students. My roles included managing
 online content and helping with lecture slide preparation.
 
-### Private Tutor, Australia 2006 – 2010
+* __Private Tutor, Australia 2006 – 2010__  
 I privately tutored year 10, 11 and 12 high school students in VCE and IB Mathematics, Physics and Chemistry.
 
 
 
 ## OUTREACH
 
-### Day of Science (Dag van de Wetenschap), Leuven, Belgium 2018
+#### Day of Science (Dag van de Wetenschap), Leuven, Belgium 2018
   I helped run a demonstration of an infrared camera in the Leuven library as part of a large outreach event across KU
 Leuven campuses.
 
-### Open Door Day, Science Faculty, KU Leuven, Belgium 2017
+#### Open Door Day, Science Faculty, KU Leuven, Belgium 2017
   I helped run some of the astronomy demonstrations as visitors passed through the department, explained what sort of
 astronomy our group studies and answered any questions they might have had.
 
-### Outreach, Onsala Space Observatory, Sweden 2011 – 2016
+#### Outreach, Onsala Space Observatory, Sweden 2011 – 2016
   I performed many different outreach duties during my time at Onsala Space Observatory. These have ranged from
 giving guided tours of the observatory, and talking to members of the public about astronomy and the observatory
 during open day events. I also coordinated updating the astronomy exhibition with more modern images and
 information.
 
-### Work Experience, School of Physics, University of Melbourne, Parkville, Australia 2010 – 2011
+#### Work Experience, School of Physics, University of Melbourne, Parkville, Australia 2010 – 2011
   The Astro Group hosted a group of year 10 (high school) students undertaking a week of work experience each year.
 During those weeks, I supervised them for a lab session, the focus of which was to build their interest in physics
 while familiarising them with basic astrophysical concepts, and presented an hour-long lecture introducing them to
 an aspect of astronomy and astrophysics. I also helped to supervise some of their other miscellaneous activities
 throughout their visit.
 
-### Student Host at Orientation Week, University of Melbourne, Parkville, Australia 2008, 2010
+#### Student Host at Orientation Week, University of Melbourne, Parkville, Australia 2008, 2010
   I helped orientate new first year students to the university campus by showing them around, answering their
 questions about university life and explaining other important things they needed to know about starting their new
 courses.
 
-### Open Day Guide, University of Melbourne, Parkville, Australia 2008 – 2009
+#### Open Day Guide, University of Melbourne, Parkville, Australia 2008 – 2009
 In 2008 I worked as a general Open Day Guide. My role was to direct prospective students and their parents around
 campus, answer their questions and to inform them of various activities taking place on Open Day. In 2009 I worked
 in the School of Physics on Open Day, running physics-based demonstrations and directing students to other
 information points around the school and the university.
 
-### n-2-Science Mentor, Melbourne, Australia 2007
+#### n-2-Science Mentor, Melbourne, Australia 2007
 Once a week, I went to a year 9 high school science class to help the teacher engage the students. As well as helping
 out with their normal classwork, I often spoke to them about various areas of science with the aim of encouraging
 them to pursue scientific studies in later years.
@@ -337,32 +326,32 @@ Member of the Astronomical Society of Australia 2011 – present
 
 
 ## OTHER ROLES AND RESPONSIBILITIES
-### Refereeing 2018 – present
+#### Refereeing 2018 – present
 I have refereed manuscripts for the journals Astronomy & Astrophysics, Monthly Notices of the Royal Astronomical
 Society, and Revista Mexicana de Astronomía y Astrofísica.
 
-### Research group organisational duties 2017 – present
+#### Research group organisational duties 2017 – present
 Organised and chaired group meetings. Set up and administered a group Slack workspace.
 
-### Astronomer on Duty, Mercator, La Palma, Spain 2017
+#### Astronomer on Duty, Mercator, La Palma, Spain 2017
   I planned and executed observations during service mode observing time at the Mercator optical telescope on La
 Palma. I was also responsible for telescope setup and running during those nights.
 
-### Astronomer on Duty, APEX, Chile 2012
+#### Astronomer on Duty, APEX, Chile 2012
 I co-ordinated and executed observations as part of Swedish cycle 90 observing time at the APEX radio telescope in
 northern Chile.
 
-### Member of the Women in Physics Committee, University of Melbourne, Parkville 2010 – 2011
+#### Member of the Women in Physics Committee, University of Melbourne, Parkville 2010 – 2011
 I helped organise events that the group ran, for example by making posters advertising events and chairing a forum.
 My role also included managing the mailing list for all members of Women in Physics and sending out
 announcements as needed.
 
-### Graduate Transition Roles, University of Melbourne, Parkville 2010
+#### Graduate Transition Roles, University of Melbourne, Parkville 2010
 I participated in a graduate orientation session entitled “Studying at Melbourne: Strategies for Success” run by the
 Academic Skills Unit. I participated in a discussion examining study strategies for commencing graduate students
 and some of the pitfalls to avoid. I also participated in a Graduate Transition Forum as the Student Panellist.
 
-### Member of Student-Staff Liaison Committee, University of Melbourne, Parkville 2007 – 2009
+#### Member of Student-Staff Liaison Committee, University of Melbourne, Parkville 2007 – 2009
 I was a member of the Student-Staff Liaison Committee for the Department of Mathematics and Statistics (2007–
 2008) and the School of Physics (2008–2009). In this role I collected student feedback on various aspects of a
 particular subject and reported this feedback to the committee which acted to make changes where appropriate
