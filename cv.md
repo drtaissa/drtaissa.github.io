@@ -3,10 +3,6 @@ title: Cirriculum Vitae
 layout: default
 ---
 # Dr.Taïssa Danilovich
-### Email:
-[taissa.danilovich@kuleuven.be](mailto:taissa.danilovich@kuleuven.be)
-[tdanilovich@gmail.com](mailto:tdanilovich@gmail.com)
-
 ## EMPLOYMENT
 
 ### Senior Postdoctoral Fellow of the Fund for Scientific Research (FWO), Flanders, Belgium 2019 – present
