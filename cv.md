@@ -73,20 +73,20 @@ Melbourne, Australia
 
 ## CONFERENCE PROCEEDINGSConference Proceedings
 
-* *Unravelling the sulphur chemistry of AGB stars*
-    __T. Danilovich__
+* *Unravelling the sulphur chemistry of AGB stars*  
+    __T. Danilovich__  
     “Why Galaxies Care About AGB Stars: A Continuing Challenge through Cosmic Time”, Proceedings of the International Astronomical Union, 14(S343), 379-380, 2019
     
-* *ALMA spectrum of the extreme OH/IR star OH 26.5+0.6*
-    __K. Justtanont, S. Muller, M.J. Barlow, D. Engels, D.A. García-Hernández, M.A.T. Groenewegen, M. Matsuura, H. Olofsson, D. Teyssier, I. Marti-Vidal, T. Khouri, M. Van de Sande, W. Homan, T. Danilovich, A. de Koter, L. Decin, L.B.F.M Waters, R. Stancliffe, W. Vlemmings, P. Royer, F. Kerschbaum, C. Paladini, J. Blommaert, and R. de Nutte__
+* *ALMA spectrum of the extreme OH/IR star OH 26.5+0.6*  
+    __K. Justtanont, S. Muller, M.J. Barlow, D. Engels, D.A. García-Hernández, M.A.T. Groenewegen, M. Matsuura, H. Olofsson, D. Teyssier, I. Marti-Vidal, T. Khouri, M. Van de Sande, W. Homan, T. Danilovich, A. de Koter, L. Decin, L.B.F.M Waters, R. Stancliffe, W. Vlemmings, P. Royer, F. Kerschbaum, C. Paladini, J. Blommaert, and R. de Nutte__  
     “Why Galaxies Care About AGB Stars: A Continuing Challenge through Cosmic Time”, Proceedings of the International Astronomical Union, 14(S343), 436-437, 2019
     
-* *AGB outflows as tests of chemical kinetics and radiative transfer models*
-    __M. Van de Sande, T. Danilovich, and L. Decin__
+* *AGB outflows as tests of chemical kinetics and radiative transfer models*  
+    __M. Van de Sande, T. Danilovich, and L. Decin__  
     “Laboratory Astrophysics: From Observations to Interpretation”, Proceedings of the International Astronomical Union, 15(S350), 2019
     
-* *Detailed Modelling of the Circumstellar Envelope of the S-type AGB Star W Aquilae*
-    __T. Danilovich, P. Bergman, K. Justtanont, R. Lombaert M. Maercker, H. Olofsson, S. Ramstedt and P. Royer__
+* *Detailed Modelling of the Circumstellar Envelope of the S-type AGB Star W Aquilae*  
+    __T. Danilovich, P. Bergman, K. Justtanont, R. Lombaert M. Maercker, H. Olofsson, S. Ramstedt and P. Royer__  
     “Why Galaxies Care about AGB Stars III: A Closer Look in Space and Time”, Proceedings of a conference held 28 July – 1 August 2014, at University Campus, Vienna, Austria. Edited by F. Kerschbaum, R. F. Wing, and J. Hron. ASP Conference Series, Vol. 497. San Francisco: Astronomical Society of the Pacific, 2015
 
 ## GRANTS AWARDED
