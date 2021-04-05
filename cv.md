@@ -124,9 +124,7 @@ Circumstellar Envelopes with Herschel/HIFI: the millimetre-wave counterpart, IRA
 over the Belgian academic year 2020-2021 at KU Leuven.
 * Ciara O’Sullivan (MSc), co-supervisor of thesis research project “ATOMIUM: Tracing the origins of dust in evolved
 stars” completed over the Belgian academic years 2019–2021 at KU Leuven.
-* Final year undergraduate research project of Joeri De Vadder and Aster Kemal Camuz in 2020 at KU Leuven.
-* Final year undergraduate research project of Jeroen Lardot and Arthur Vervoort in 2019 at KU Leuven.
-* Final year undergraduate research project of Tom Depuydt and Niels Wellens in 2018 at KU Leuven.
+* Final year undergraduate research projects 2018-2020 at KU Leuven.
 * Siemen Burssens (MSc) thesis research project “Molecular analysis of the oxygen-rich AGB star V1300 Aql: CO, SiS
 and CS” completed over the Belgian academic year 2016–2017 at KU Leuven.
 
@@ -151,6 +149,7 @@ and CS” completed over the Belgian academic year 2016–2017 at KU Leuven.
 * n-2-Science Mentor, Melbourne, Australia 2007
 
 ## MEMBERSHIPS
+Junior Member
 Member of the Astronomical Society of Australia 2011 – present
 
 ## OTHER ROLES AND RESPONSIBILITIES
