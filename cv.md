@@ -71,12 +71,23 @@ Melbourne, Australia
  * May 2011, *“Do disk galaxies have different central velocity dispersions at a given rotational velocity?”* 218th Meeting of the American Astronomical Society, Boston, USA
  * September 2010, *“The importance of understanding the Tully-Fisher relation”*, UpSkills GR Poster Competition, 2nd Place, the Melbourne School of Graduate Research
 
-## CONFERENCE PROCEEDINGS
-* __Detailed Modelling of the Circumstellar Envelope of the S-type AGB Star W Aquilae__  
-T. Danilovich, P. Bergman, K. Justtanont, R. Lombaert M. Maercker, H. Olofsson, S. Ramstedt and P. Royer
- __“Why Galaxies Care about AGB Stars III: A Closer Look in Space and Time”__,  
-Proceedings of a conference held 28 July – 1 August 2014, at University Campus, Vienna, Austria.
-Edited by F. Kerschbaum, R. F. Wing, and J. Hron. ASP Conference Series, Vol. 497. San Francisco: Astronomical Society of the Pacific, 2015
+## CONFERENCE PROCEEDINGSConference Proceedings
+
+* *Unravelling the sulphur chemistry of AGB stars*
+    __T. Danilovich__
+    “Why Galaxies Care About AGB Stars: A Continuing Challenge through Cosmic Time”, Proceedings of the International Astronomical Union, 14(S343), 379-380, 2019
+    
+* *ALMA spectrum of the extreme OH/IR star OH 26.5+0.6*
+    __K. Justtanont, S. Muller, M.J. Barlow, D. Engels, D.A. García-Hernández, M.A.T. Groenewegen, M. Matsuura, H. Olofsson, D. Teyssier, I. Marti-Vidal, T. Khouri, M. Van de Sande, W. Homan, T. Danilovich, A. de Koter, L. Decin, L.B.F.M Waters, R. Stancliffe, W. Vlemmings, P. Royer, F. Kerschbaum, C. Paladini, J. Blommaert, and R. de Nutte__
+    “Why Galaxies Care About AGB Stars: A Continuing Challenge through Cosmic Time”, Proceedings of the International Astronomical Union, 14(S343), 436-437, 2019
+    
+* *AGB outflows as tests of chemical kinetics and radiative transfer models*
+    __M. Van de Sande, T. Danilovich, and L. Decin__
+    “Laboratory Astrophysics: From Observations to Interpretation”, Proceedings of the International Astronomical Union, 15(S350), 2019
+    
+* *Detailed Modelling of the Circumstellar Envelope of the S-type AGB Star W Aquilae*
+    __T. Danilovich, P. Bergman, K. Justtanont, R. Lombaert M. Maercker, H. Olofsson, S. Ramstedt and P. Royer__
+    “Why Galaxies Care about AGB Stars III: A Closer Look in Space and Time”, Proceedings of a conference held 28 July – 1 August 2014, at University Campus, Vienna, Austria. Edited by F. Kerschbaum, R. F. Wing, and J. Hron. ASP Conference Series, Vol. 497. San Francisco: Astronomical Society of the Pacific, 2015
 
 ## GRANTS AWARDED
 * 2014, “Forskningsstipendium” travel grant of 13 000 kr from The Royal Swedish Academy of Sciences (KVA)
@@ -128,6 +139,7 @@ stars” completed over the Belgian academic years 2019–2021 at KU Leuven.
 and CS” completed over the Belgian academic year 2016–2017 at KU Leuven.
 
 ## TEACHING
+* Course Co-coordinator, Institute of Astronomy, KU Leuven, Belgium	2021 – present
 * Tutor, Institute of Astronomy, KU Leuven, Belgium 2017 – present  
 * TA, Dept of Earth and Space Sciences, Chalmers University of Technology, Sweden 2014 – 2015  
 * Tutor, Dept of Earth and Space Sciences, Chalmers University of Technology, Sweden 2012 – 2016  
@@ -148,7 +160,7 @@ and CS” completed over the Belgian academic year 2016–2017 at KU Leuven.
 * n-2-Science Mentor, Melbourne, Australia 2007
 
 ## MEMBERSHIPS
-Junior Member 
+Junior Member of the International Astronomical Union	2020 – present
 Member of the Astronomical Society of Australia 2011 – present
 
 ## OTHER ROLES AND RESPONSIBILITIES
