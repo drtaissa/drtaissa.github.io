@@ -74,8 +74,7 @@ Melbourne, Australia
 ## CONFERENCE PROCEEDINGS
 * __Detailed Modelling of the Circumstellar Envelope of the S-type AGB Star W Aquilae__  
 T. Danilovich, P. Bergman, K. Justtanont, R. Lombaert M. Maercker, H. Olofsson, S. Ramstedt and P. Royer
-
-* __“Why Galaxies Care about AGB Stars III: A Closer Look in Space and Time”__,  
+ __“Why Galaxies Care about AGB Stars III: A Closer Look in Space and Time”__,  
 Proceedings of a conference held 28 July – 1 August 2014, at University Campus, Vienna, Austria.
 Edited by F. Kerschbaum, R. F. Wing, and J. Hron. ASP Conference Series, Vol. 497. San Francisco: Astronomical Society of the Pacific, 2015
 
