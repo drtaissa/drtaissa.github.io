@@ -148,7 +148,7 @@ and CS” completed over the Belgian academic year 2016–2017 at KU Leuven.
 * n-2-Science Mentor, Melbourne, Australia 2007
 
 ## MEMBERSHIPS
-Junior Member
+Junior Member 
 Member of the Astronomical Society of Australia 2011 – present
 
 ## OTHER ROLES AND RESPONSIBILITIES
@@ -159,15 +159,3 @@ Member of the Astronomical Society of Australia 2011 – present
 * Member of the Women in Physics Committee, University of Melbourne, Parkville 2010 – 2011
 * Graduate Transition Roles, University of Melbourne, Parkville 2010
 * Member of Student-Staff Liaison Committee, University of Melbourne, Parkville 2007 – 2009
-
-## OTHER SKILLS
-* Competent at reducing radio spectral data, has worked with interferometric data and has experience with optical
-spectra
-* Maintenance and ongoing development of radiative transfer codes, MCP and ALI, used by the evolved stars group
-at Onsala Space Observatory.
-* Competent scientific programming in: Python, C, BASH, Matlab
-* Other software: LaTeX, CLASS, Mathematica, PGplot, various office applications
-* Highly computer literate and able to troubleshoot both software and hardware on Mac, Linux and Windows
-systems
-* Native English speaker, able to speak Russian fluently and some basic Swedish, German and Spanish, and
-rudimentary Korean
