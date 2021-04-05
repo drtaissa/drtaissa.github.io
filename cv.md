@@ -173,20 +173,3 @@ at Onsala Space Observatory.
 systems
 * Native English speaker, able to speak Russian fluently and some basic Swedish, German and Spanish, and
 rudimentary Korean
-
-## REFEREES
-
-####   Prof Leen Decin
-Current group leader  
-Institute for Astronomy, KU Leuven  
-Email: [leen.decin@kuleuven.be](mailto:leen.decin@kuleuven.be)
-
-####  Prof Hans Olofsson
-PhD supervisor  
-Onsala Space Observatory, Chalmers University of Technology  
-Email: [hans.olofsson@chalmers.se](mailto:hans.olofsson@chalmers.se)
-
-#### Dr Sofia Ramstedt
-Collaborator  
-Department of Physics and Astronomy, Astronomy and Space Physics, Uppsala University  
-Email: [sofia.ramstedt@physics.uu.se](mailto:sofia.ramstedt@physics.uu.se)
