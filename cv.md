@@ -160,8 +160,8 @@ and CS” completed over the Belgian academic year 2016–2017 at KU Leuven.
 * n-2-Science Mentor, Melbourne, Australia 2007
 
 ## MEMBERSHIPS
-Junior Member of the International Astronomical Union	2020 – present
-Member of the Astronomical Society of Australia 2011 – present
+* Junior Member of the International Astronomical Union	2020 – present  
+* Member of the Astronomical Society of Australia 2011 – present
 
 ## OTHER ROLES AND RESPONSIBILITIES
 * Refereeing 2018 – present
