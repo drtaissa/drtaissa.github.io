@@ -151,8 +151,7 @@ and CS” completed over the Belgian academic year 2016–2017 at KU Leuven.
 * Danilovich et al, The sulphur chemistry in circumstellar envelopes of oxygen-rich AGB stars, Onsala 20 m (science verification), 2016, ID: O2015c-03 (33 hours awarded)
 * Danilovich et al, The sulphur chemistry in circumstellar envelopes of AGB stars, APEX, 2015, ID: 097.F-9318 (20 hours awarded)
 * Danilovich et al, Investigating W Aql's companion when the AGB star is at minimum brightness, Nordic Optical Telescope, 2012, ID: 45-411 (1.6 hours awarded)
--->
-<!---
+
 ## ACCEPTED OBSERVING PROPOSALS AS CO-INVESTIGATOR
 * M. Montargès, L. Decin, C. Gottleib, T. Khouri, W. Homan, T. Danilovich, and 21 co-Is, Tracing the origins of dust
 species in oxygen-rich M-type stars through an ambitious multi-wavelength approach, VLT & VLTI, 2018, ID:
