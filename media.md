@@ -24,7 +24,7 @@ Click on the image below to view on YouTube
 
 ### June 2020, “Metal oxides around R Dor: a tale of dust precursors”, Astrochemical Frontiers — Quarantine Edition, Online 
 
-([Video available here](https://harvard.zoom.us/rec/play/Va4QP2rsTVBDhjQWahuLON4Ueer-6eQgqxO6cz1h6TrPOSQqrNCeu9B5vLCOZLAz1zRuQyb5vxViylcJ.Rupfny5yW3i2afdq?continueMode=true&_x_zm_rtaid=aftFOQLpT8uDfgO8aKDicw.1619019940901.02161291930e40b8f6327a47ad77e0f0&_x_zm_rhtaid=589), talk starts at 04:31 minutes)
+[Video available here](https://harvard.zoom.us/rec/play/Va4QP2rsTVBDhjQWahuLON4Ueer-6eQgqxO6cz1h6TrPOSQqrNCeu9B5vLCOZLAz1zRuQyb5vxViylcJ.Rupfny5yW3i2afdq?continueMode=true&_x_zm_rtaid=aftFOQLpT8uDfgO8aKDicw.1619019940901.02161291930e40b8f6327a47ad77e0f0&_x_zm_rhtaid=589), talk starts at 04:31 minutes
 
 # Publications
 
