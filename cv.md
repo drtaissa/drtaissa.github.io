@@ -104,25 +104,25 @@ stars” completed over the Belgian academic years 2019–2021 at KU Leuven.
 and CS” completed over the Belgian academic year 2016–2017 at KU Leuven.
 
 ## TEACHING
-* Course Co-coordinator, Institute of Astronomy, KU Leuven, Belgium	2021 – present
-* Tutor, Institute of Astronomy, KU Leuven, Belgium 2017 – present  
-* TA, Dept of Earth and Space Sciences, Chalmers University of Technology, Sweden 2014 – 2015  
-* Tutor, Dept of Earth and Space Sciences, Chalmers University of Technology, Sweden 2012 – 2016  
-* Exam Marker, School of Physics, University of Melbourne, Parkville, Australia 2009 – 2011  
-* Tutor, School of Physics, University of Melbourne, Parkville, Australia 2010 – 2011  
-* Laboratory Notes Revisor, School of Physics, University of Melbourne, Parkville, Australia 2010 – 2011  
-* Laboratory Demonstrator, School of Physics, University of Melbourne, Parkville, Australia 2009 – 2011  
-* Teaching Assistant, School of Physics, University of Melbourne, Parkville, Australia 2010  
-* Private Tutor, Australia 2006 – 2010  
+* Course Co-coordinator, Research Projects in Theoretical Astrophysics (Masters level), Institute of Astronomy, KU Leuven, Belgium	2021 – present
+* Tutor, Stellar Atmospheres and Stellar Winds (Masters level), Institute of Astronomy, KU Leuven, Belgium 2017 – present  
+* Teaching Assistant, Stellar Physics (Masters level), Dept of Earth and Space Sciences, Chalmers University of Technology, Sweden 2014 – 2015  
+* Tutor, Space Science and Techniques (Masters level), Dept of Earth and Space Sciences, Chalmers University of Technology, Sweden 2012 – 2016  
+* Exam Marker, first year undergraduate physics, School of Physics, University of Melbourne, Parkville, Australia 2009 – 2011  
+* Tutor, first year undergraduate physics, School of Physics, University of Melbourne, Parkville, Australia 2010 – 2011  
+* Laboratory Notes Revisor, first year undergraduate physics, School of Physics, University of Melbourne, Parkville, Australia 2010 – 2011  
+* Laboratory Demonstrator, first year undergraduate physics, School of Physics, University of Melbourne, Parkville, Australia 2009 – 2011  
+* Teaching Assistant, Introduction to Climate Change, School of Physics, University of Melbourne, Parkville, Australia 2010  
+* Private Tutor, Mathematics, Physics and Chemistry, Australia 2006 – 2010  
 
 ## OUTREACH
 * Day of Science (Dag van de Wetenschap), Leuven, Belgium 2018
 * Open Door Day, Science Faculty, KU Leuven, Belgium 2017
-* Outreach, Onsala Space Observatory, Sweden 2011 – 2016
-* Work Experience, School of Physics, University of Melbourne, Parkville, Australia 2010 – 2011
+* Observatory Tours, Educational display update, Onsala Space Observatory, Sweden 2011 – 2016
+* Co-ran Work Experience for high school students, School of Physics, University of Melbourne, Parkville, Australia 2010 – 2011
 * Student Host at Orientation Week, University of Melbourne, Parkville, Australia 2008, 2010
 * Open Day Guide, University of Melbourne, Parkville, Australia 2008 – 2009
-* n-2-Science Mentor, Melbourne, Australia 2007
+* In-2-Science Mentor, Melbourne, Australia 2007
 
 ## OTHER ROLES AND RESPONSIBILITIES
 * Chair of Scientific and "Local" Organising Committees for DELVE: Death-throes of EvoLved stars, a Virtual Encounter
