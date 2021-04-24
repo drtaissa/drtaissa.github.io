@@ -94,6 +94,27 @@ Melbourne, Australia
 * 2013, “Chalmersska forskningsfonden” travel grant of 7000 kr from Chalmers University of Technology
 * 2012, “Stiftelsen Hiera-Retzius stipendiefond” grant of 15 000 kr from The Royal Swedish Academy of Sciences (KVA)
 
+## SUPERVISION
+* Lisa Decock (MSc), thesis research project “In-depth comparison of two high mass-loss rate AGB stars” undertaken
+over the Belgian academic year 2020-2021 at KU Leuven.
+* Ciara O’Sullivan (MSc), co-supervisor of thesis research project “ATOMIUM: Tracing the origins of dust in evolved
+stars” completed over the Belgian academic years 2019–2021 at KU Leuven.
+* Final year undergraduate research projects 2018-2020 at KU Leuven.
+* Siemen Burssens (MSc) thesis research project “Molecular analysis of the oxygen-rich AGB star V1300 Aql: CO, SiS
+and CS” completed over the Belgian academic year 2016–2017 at KU Leuven.
+
+## TEACHING
+* Course Co-coordinator, Institute of Astronomy, KU Leuven, Belgium	2021 – present
+* Tutor, Institute of Astronomy, KU Leuven, Belgium 2017 – present  
+* TA, Dept of Earth and Space Sciences, Chalmers University of Technology, Sweden 2014 – 2015  
+* Tutor, Dept of Earth and Space Sciences, Chalmers University of Technology, Sweden 2012 – 2016  
+* Exam Marker, School of Physics, University of Melbourne, Parkville, Australia 2009 – 2011  
+* Tutor, School of Physics, University of Melbourne, Parkville, Australia 2010 – 2011  
+* Laboratory Notes Revisor, School of Physics, University of Melbourne, Parkville, Australia 2010 – 2011  
+* Laboratory Demonstrator, School of Physics, University of Melbourne, Parkville, Australia 2009 – 2011  
+* Teaching Assistant, School of Physics, University of Melbourne, Parkville, Australia 2010  
+* Private Tutor, Australia 2006 – 2010  
+
 ## ACCEPTED OBSERVING PROPOSALS AS PRIMARY INVESTIGATOR
 * Danilovich et al, Initial mass estimates for AGB stars from oxygen isotopes, ALMA, 2019, ID: 2019.1.00187.S
 * Danilovich et al, H2S towards extreme OH/IR stars (continuation), APEX, 2018, ID: 103.F-9302 (10.4 hours awarded)
@@ -129,27 +150,6 @@ the superwind phase of oxygen-rich asymptotic giant branch stars, ALMA Cycle 4 (
 * D. Teyssier, L. Cerrigone, J. Cernicharo, J. Alcolea, A. Castro-Carrizo, H, Olofsson, K. Justtanont, T. Danilovich,
 Circumstellar Envelopes with Herschel/HIFI: the millimetre-wave counterpart, IRAM 30 m, 2012, ID: 166-12
 
-## SUPERVISION
-* Lisa Decock (MSc), thesis research project “In-depth comparison of two high mass-loss rate AGB stars” undertaken
-over the Belgian academic year 2020-2021 at KU Leuven.
-* Ciara O’Sullivan (MSc), co-supervisor of thesis research project “ATOMIUM: Tracing the origins of dust in evolved
-stars” completed over the Belgian academic years 2019–2021 at KU Leuven.
-* Final year undergraduate research projects 2018-2020 at KU Leuven.
-* Siemen Burssens (MSc) thesis research project “Molecular analysis of the oxygen-rich AGB star V1300 Aql: CO, SiS
-and CS” completed over the Belgian academic year 2016–2017 at KU Leuven.
-
-## TEACHING
-* Course Co-coordinator, Institute of Astronomy, KU Leuven, Belgium	2021 – present
-* Tutor, Institute of Astronomy, KU Leuven, Belgium 2017 – present  
-* TA, Dept of Earth and Space Sciences, Chalmers University of Technology, Sweden 2014 – 2015  
-* Tutor, Dept of Earth and Space Sciences, Chalmers University of Technology, Sweden 2012 – 2016  
-* Exam Marker, School of Physics, University of Melbourne, Parkville, Australia 2009 – 2011  
-* Tutor, School of Physics, University of Melbourne, Parkville, Australia 2010 – 2011  
-* Laboratory Notes Revisor, School of Physics, University of Melbourne, Parkville, Australia 2010 – 2011  
-* Laboratory Demonstrator, School of Physics, University of Melbourne, Parkville, Australia 2009 – 2011  
-* Teaching Assistant, School of Physics, University of Melbourne, Parkville, Australia 2010  
-* Private Tutor, Australia 2006 – 2010  
-
 ## OUTREACH
 * Day of Science (Dag van de Wetenschap), Leuven, Belgium 2018
 * Open Door Day, Science Faculty, KU Leuven, Belgium 2017
@@ -159,11 +159,11 @@ and CS” completed over the Belgian academic year 2016–2017 at KU Leuven.
 * Open Day Guide, University of Melbourne, Parkville, Australia 2008 – 2009
 * n-2-Science Mentor, Melbourne, Australia 2007
 
-## MEMBERSHIPS
-* Junior Member of the International Astronomical Union	2020 – present  
-* Member of the Astronomical Society of Australia 2011 – present
-
 ## OTHER ROLES AND RESPONSIBILITIES
+* Chair of Scientific and "Local" Organising Committees for DELVE: Death-throes of EvoLved stars, a Virtual Encounter
+    * Ran 12–16 April 2021 with 187 registered attendees.
+    * Conference website: https://fys.kuleuven.be/ster/events/conferences/2021/delve/delve-the-death-throes-of-evolved-stars-a-virtual-encounter 
+    * Talks are available on YouTube: https://www.youtube.com/playlist?list=PLrGAIWCGSKlC9ja1CMZzzLWddWwbwwhty 
 * Refereeing 2018 – present
 * Research group organisational duties 2017 – present
 * Astronomer on Duty, Mercator, La Palma, Spain 2017
@@ -171,3 +171,7 @@ and CS” completed over the Belgian academic year 2016–2017 at KU Leuven.
 * Member of the Women in Physics Committee, University of Melbourne, Parkville 2010 – 2011
 * Graduate Transition Roles, University of Melbourne, Parkville 2010
 * Member of Student-Staff Liaison Committee, University of Melbourne, Parkville 2007 – 2009
+
+## MEMBERSHIPS
+* Junior Member of the International Astronomical Union	2020 – present  
+* Member of the Astronomical Society of Australia 2011 – present
