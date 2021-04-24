@@ -115,41 +115,6 @@ and CS” completed over the Belgian academic year 2016–2017 at KU Leuven.
 * Teaching Assistant, School of Physics, University of Melbourne, Parkville, Australia 2010  
 * Private Tutor, Australia 2006 – 2010  
 
-## ACCEPTED OBSERVING PROPOSALS AS PRIMARY INVESTIGATOR
-* Danilovich et al, Initial mass estimates for AGB stars from oxygen isotopes, ALMA, 2019, ID: 2019.1.00187.S
-* Danilovich et al, H2S towards extreme OH/IR stars (continuation), APEX, 2018, ID: 103.F-9302 (10.4 hours awarded)
-* Danilovich et al, H2S towards extreme OH/IR stars, APEX, 2018, ID: 102.F-9301 (15.1 hours awarded)
-* Danilovich et al, A spectral survey of low and intermediate mass-loss rate carbon stars, APEX, 2016, ID:099.D-0750 (36 hours awarded)
-* Danilovich et al, The sulphur chemistry in circumstellar envelopes of AGB stars (resubmission/extension), APEX, 2016, ID: 098.F-9305 (42.6 hours awarded)
-* Danilovich et al, The sulphur chemistry in circumstellar envelopes of oxygen-rich AGB stars, Onsala 20 m (science verification), 2016, ID: O2015c-03 (33 hours awarded)
-* Danilovich et al, The sulphur chemistry in circumstellar envelopes of AGB stars, APEX, 2015, ID: 097.F-9318 (20 hours awarded)
-* Danilovich et al, Investigating W Aql's companion when the AGB star is at minimum brightness, Nordic Optical Telescope, 2012, ID: 45-411 (1.6 hours awarded)
-
-## ACCEPTED OBSERVING PROPOSALS AS CO-INVESTIGATOR
-* M. Montargès, L. Decin, C. Gottleib, T. Khouri, W. Homan, T. Danilovich, and 21 co-Is, Tracing the origins of dust
-species in oxygen-rich M-type stars through an ambitious multi-wavelength approach, VLT & VLTI, 2018, ID:
-0103.D-0772 (28.8 hours awarded)
-* L. Decin, C. Gottlieb, M. Montargès, W. Homan, T. Danilovich, and 20 co-Is, ATOMIUM: ALMA Tracing the
-Origins of Molecules In dUst-forming oxygen-rich M-type stars, ALMA Cycle 6 (2018–2019) Large Program, ID:
-2018.1.00659.L
-* S. Ramstedt, E. De Beck, T. Danilovich, and 19 co-Is, DEATHSTAR: The S-type stars, ALMA Cycle 6 (2018–2019),
-ID: 2018.1.01434.S
-* S. Ramstedt, E. De Beck, T. Danilovich, and 20 co-Is, DEATH STAR: DEtermining Accurate mass-loss rates of
-THermally pulsing AGB STARs, ALMA Cycle 5 (2017–2018), ID: 2017.1.00595.S
-* S. Ramstedt, W. Vlemmings, E. De Beck, T. Danilovich, and 8 co-Is, Improving the accuracy of mass-loss-rate
-estimates for AGB stars, APEX, 2017, ID: 0101.F-9310 (9 hours awarded)
-* E. De Beck, H. Olofsson, T. Danilovich, and 4 co-Is, The effect of wind density on the chemistry around AGB stars,
-APEX, 2016, ID: 099.F-9306 (41 hours awarded)
-* R. Lombaert, H. Olofsson, T. Danilovich, and 3 co-Is, CO observations of OH/IR stars, APEX, 2016, ID:
-098.F-9310 (14.7 hours awarded)
-* S. Ramstedt, E. De Beck, T. Danilovich, and 20 co-Is, DEATH STAR: DEtermining Accurate mass-loss rates of
-THermally pulsing AGB STARs, ALMA Cycle 4 (2016–2017), ID: 2016.2.00025.S
-* R. Lombaert, T. Khouri, M. Van de Sande, W. Homan, T. Danilovich, and 12 co-Is, The evolutionary conundrum of
-the superwind phase of oxygen-rich asymptotic giant branch stars, ALMA Cycle 4 (2016–2017), ID:
-2016.1.00005.S
-* D. Teyssier, L. Cerrigone, J. Cernicharo, J. Alcolea, A. Castro-Carrizo, H, Olofsson, K. Justtanont, T. Danilovich,
-Circumstellar Envelopes with Herschel/HIFI: the millimetre-wave counterpart, IRAM 30 m, 2012, ID: 166-12
-
 ## OUTREACH
 * Day of Science (Dag van de Wetenschap), Leuven, Belgium 2018
 * Open Door Day, Science Faculty, KU Leuven, Belgium 2017
@@ -175,3 +140,40 @@ Circumstellar Envelopes with Herschel/HIFI: the millimetre-wave counterpart, IRA
 ## MEMBERSHIPS
 * Junior Member of the International Astronomical Union	2020 – present  
 * Member of the Astronomical Society of Australia 2011 – present
+
+<!---
+## ACCEPTED OBSERVING PROPOSALS AS PRIMARY INVESTIGATOR
+* Danilovich et al, Initial mass estimates for AGB stars from oxygen isotopes, ALMA, 2019, ID: 2019.1.00187.S
+* Danilovich et al, H2S towards extreme OH/IR stars (continuation), APEX, 2018, ID: 103.F-9302 (10.4 hours awarded)
+* Danilovich et al, H2S towards extreme OH/IR stars, APEX, 2018, ID: 102.F-9301 (15.1 hours awarded)
+* Danilovich et al, A spectral survey of low and intermediate mass-loss rate carbon stars, APEX, 2016, ID:099.D-0750 (36 hours awarded)
+* Danilovich et al, The sulphur chemistry in circumstellar envelopes of AGB stars (resubmission/extension), APEX, 2016, ID: 098.F-9305 (42.6 hours awarded)
+* Danilovich et al, The sulphur chemistry in circumstellar envelopes of oxygen-rich AGB stars, Onsala 20 m (science verification), 2016, ID: O2015c-03 (33 hours awarded)
+* Danilovich et al, The sulphur chemistry in circumstellar envelopes of AGB stars, APEX, 2015, ID: 097.F-9318 (20 hours awarded)
+* Danilovich et al, Investigating W Aql's companion when the AGB star is at minimum brightness, Nordic Optical Telescope, 2012, ID: 45-411 (1.6 hours awarded)
+
+<!---
+## ACCEPTED OBSERVING PROPOSALS AS CO-INVESTIGATOR
+* M. Montargès, L. Decin, C. Gottleib, T. Khouri, W. Homan, T. Danilovich, and 21 co-Is, Tracing the origins of dust
+species in oxygen-rich M-type stars through an ambitious multi-wavelength approach, VLT & VLTI, 2018, ID:
+0103.D-0772 (28.8 hours awarded)
+* L. Decin, C. Gottlieb, M. Montargès, W. Homan, T. Danilovich, and 20 co-Is, ATOMIUM: ALMA Tracing the
+Origins of Molecules In dUst-forming oxygen-rich M-type stars, ALMA Cycle 6 (2018–2019) Large Program, ID:
+2018.1.00659.L
+* S. Ramstedt, E. De Beck, T. Danilovich, and 19 co-Is, DEATHSTAR: The S-type stars, ALMA Cycle 6 (2018–2019),
+ID: 2018.1.01434.S
+* S. Ramstedt, E. De Beck, T. Danilovich, and 20 co-Is, DEATH STAR: DEtermining Accurate mass-loss rates of
+THermally pulsing AGB STARs, ALMA Cycle 5 (2017–2018), ID: 2017.1.00595.S
+* S. Ramstedt, W. Vlemmings, E. De Beck, T. Danilovich, and 8 co-Is, Improving the accuracy of mass-loss-rate
+estimates for AGB stars, APEX, 2017, ID: 0101.F-9310 (9 hours awarded)
+* E. De Beck, H. Olofsson, T. Danilovich, and 4 co-Is, The effect of wind density on the chemistry around AGB stars,
+APEX, 2016, ID: 099.F-9306 (41 hours awarded)
+* R. Lombaert, H. Olofsson, T. Danilovich, and 3 co-Is, CO observations of OH/IR stars, APEX, 2016, ID:
+098.F-9310 (14.7 hours awarded)
+* S. Ramstedt, E. De Beck, T. Danilovich, and 20 co-Is, DEATH STAR: DEtermining Accurate mass-loss rates of
+THermally pulsing AGB STARs, ALMA Cycle 4 (2016–2017), ID: 2016.2.00025.S
+* R. Lombaert, T. Khouri, M. Van de Sande, W. Homan, T. Danilovich, and 12 co-Is, The evolutionary conundrum of
+the superwind phase of oxygen-rich asymptotic giant branch stars, ALMA Cycle 4 (2016–2017), ID:
+2016.1.00005.S
+* D. Teyssier, L. Cerrigone, J. Cernicharo, J. Alcolea, A. Castro-Carrizo, H, Olofsson, K. Justtanont, T. Danilovich,
+Circumstellar Envelopes with Herschel/HIFI: the millimetre-wave counterpart, IRAM 30 m, 2012, ID: 166-12
