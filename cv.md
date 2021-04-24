@@ -2,7 +2,7 @@
 title: Cirriculum Vitae
 layout: default
 ---
-# Dr.Taïssa Danilovich
+# Dr Taïssa Danilovich
 ## EMPLOYMENT
 
 ### Senior Postdoctoral Fellow of the Fund for Scientific Research (FWO), Flanders, Belgium 2019 – present
