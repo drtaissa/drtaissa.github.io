@@ -10,6 +10,12 @@ I was interviewed for the University of Manchester’s popular astronomy podcast
 
 # Scientific talks online
 
+### June 2021, “Circumstellar structure & dust formation” (invited talk), GAPS 2021 – unsolved problems in red Giants And suPergiantS, Online
+
+Click on the image below to view on YouTube
+
+[![YouTube link](images/GAPS.jpg)](https://www.youtube.com/watch?v=vjxIhF0jFN8&list=PLxx4ZaPdBhzcoyvziF1jaybXujgIEbdrF&index=1)
+
 ### April 2021, “Halide molecules around the S-type AGB star W Aquilae”, DELVE: Death-throes of EvoLved stars, a Virtual Encounter, Online 
 
 Click on the image below to view on YouTube
