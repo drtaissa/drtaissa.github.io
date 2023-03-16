@@ -93,11 +93,17 @@ Melbourne, Australia
     “Why Galaxies Care about AGB Stars III: A Closer Look in Space and Time”, Proceedings of a conference held 28 July – 1 August 2014, at University Campus, Vienna, Austria. Edited by F. Kerschbaum, R. F. Wing, and J. Hron. ASP Conference Series, Vol. 497. San Francisco: Astronomical Society of the Pacific, 2015
 
 ## GRANTS AWARDED
+* 2023–2026, Discovery Early Career Researcher Award (DECRA) from the Australian Research Council (ARC)
+* 2019–2022, Senior Postdoctoral Fellow of the Research Foundation Flanders (FWO)
+* 2016–2019, Postdoctoral Fellow of the Research Foundation Flanders (FWO)
 * 2014, “Forskningsstipendium” travel grant of 13 000 kr from The Royal Swedish Academy of Sciences (KVA)
 * 2013, “Chalmersska forskningsfonden” travel grant of 7000 kr from Chalmers University of Technology
 * 2012, “Stiftelsen Hiera-Retzius stipendiefond” grant of 15 000 kr from The Royal Swedish Academy of Sciences (KVA)
 
 ## SUPERVISION
+* Arnout Coenegrachts, “Irregular seasoning: the clumps of salt around IK Tau” 2021 – 2022 at KU Leuven
+* Nurul Husna Mohammad Bokhari, “Silicon monoxide in the winds of evolved stars” 2021 – 2022 at KU Leuven
+* Final year undergraduate research projects 2023 at Monash University.
 * Lisa Decock (MSc), thesis research project “In-depth comparison of two high mass-loss rate AGB stars” undertaken
 over the Belgian academic year 2020-2021 at KU Leuven.
 * Ciara O’Sullivan (MSc), co-supervisor of thesis research project “ATOMIUM: Tracing the origins of dust in evolved
@@ -119,6 +125,13 @@ and CS” completed over the Belgian academic year 2016–2017 at KU Leuven.
 * Private Tutor, Mathematics, Physics and Chemistry, Australia 2006 – 2010  
 
 ## OUTREACH
+* ESO Messenger article 2022
+* Astronomy on Tap, Bonn 2021
+https://www.youtube.com/watch?v=DiPoVfm9QhQ
+* Jodcast Interview 2020
+http://www.jodcast.net/archive/202011/
+* Pint of Science, Leuven, Belgium 2019
+* School Visits and Ladies@Science, KU Leuven, Belgium 2019
 * Day of Science (Dag van de Wetenschap), Leuven, Belgium 2018
 * Open Door Day, Science Faculty, KU Leuven, Belgium 2017
 * Observatory Tours, Educational display update, Onsala Space Observatory, Sweden 2011 – 2016
@@ -128,11 +141,36 @@ and CS” completed over the Belgian academic year 2016–2017 at KU Leuven.
 * In-2-Science Mentor, Melbourne, Australia 2007
 
 ## OTHER ROLES AND RESPONSIBILITIES
+* Member of the ASA Comms Working Group 2023 – present
+I served on the Communications Working Group for the Astronomical Society of Australia.
+* Member of the ASTRO 3D Equity, Diversity and Inclusion Committee 2023 – present
+* ASTRO 3D is the Australian Research Council Centre of Excellence for All Sky Astrophysics in 3 Dimensions.
+* Member of ADACS Time Allocation Committee 2023 – 2024
+I am serving on the Time Allocation Committee for the Astronomy Data and Computing Services.
+* Mentoring 2021 – present
+I organised a Speed-Meet-a-Mentor session at DELVE the online conference I organised in 2021. I participated as a
+mentor in the Astronomical Society of Australia’s Speed Meet-a-Mentor event (2023).
+* Member of educational review panel (COBRA) for Masters in Astronomy & Astrophysics 2022
+I was part of the panel discussing the quality of educational outcomes and programme structure at KU Leuven.
+* Member of the LOC for the IAU Symposium 366: The Origin of Outflows in Evolved Stars 2021
+I served on Local Organising Committee for the symposium held in November 2021 (iaus366.be).
+* Panel member of the European Southern Observatory Observing Programmes Committee 2021
+I served on the ESO OPC for Category D - Stellar Evolution during Periods 108 and 109. For Period 109 I had the
+role of co-chair for my panel
 * Chair of Scientific and "Local" Organising Committees for DELVE: Death-throes of EvoLved stars, a Virtual Encounter
     * Ran 12–16 April 2021 with 187 registered attendees.
     * Conference website: https://fys.kuleuven.be/ster/events/conferences/2021/delve/delve-the-death-throes-of-evolved-stars-a-virtual-encounter 
     * Talks are available on YouTube: https://www.youtube.com/playlist?list=PLrGAIWCGSKlC9ja1CMZzzLWddWwbwwhty 
-* Refereeing 2018 – present
+* Refereeing 2018 - present
+    * Grant Proposals
+        * The Australian Research Counci
+        * The National Science Centre Poland
+    * Journal Manuscripts
+        * Astronomy & Astrophysics,
+        * The National Science Centre Poland. • Monthly Notices of the Royal Astronomical Society,
+        * The Astrophysical Journal,
+        * The Astrophysical Journal Letters and
+        * Revista Mexicana de Astronomía y Astrofísica. 
 * Research group organisational duties 2017 – present
 * Astronomer on Duty, Mercator, La Palma, Spain 2017
 * Astronomer on Duty, APEX, Chile 2012
@@ -141,8 +179,11 @@ and CS” completed over the Belgian academic year 2016–2017 at KU Leuven.
 * Member of Student-Staff Liaison Committee, University of Melbourne, Parkville 2007 – 2009
 
 ## MEMBERSHIPS
-* Junior Member of the International Astronomical Union	2020 – present  
-* Member of the Astronomical Society of Australia 2011 – present
+* Associate Investigator at the ASTRO3D Australian Research Council Centre of Excellence 2023 – present
+* Junior Member of the International Astronomical Union (IAU) 2020 – present
+* ATOMIUM: ALMA Tracing the Origins of Molecules In dUst-forming oxygen-rich M-type stars 2018 – present
+* DEATHSTAR: DEtermining Accurate mass-loss rates of THermally pulsing AGB STARs 2016 – present
+* Member of the Astronomical Society of Australia (ASA) 2011 – present
 
 <!---
 ## ACCEPTED OBSERVING PROPOSALS AS PRIMARY INVESTIGATOR
