@@ -6,13 +6,15 @@ layout: default
 ## EMPLOYMENT
 
 ### Discovery Early Career Researcher Award Fellow (DECRA), Australia 2023 - present
-Based at Monash University; Project title: Understanding the birth of new elements by observing dying stars
+Based at Monash University;  
+Project title: Understanding the birth of new elements by observing dying stars
 
 ### Senior Postdoctoral Fellow of the Fund for Scientific Research (FWO), Flanders, Belgium 2019 – present
-Based at KU Leuven, Belgium; Project title: Winds of Change: The evolving winds of AGB stars
+Based at KU Leuven, Belgium;   
+Project title: Winds of Change: The evolving winds of AGB stars
 
 ### Postdoctoral Fellow of the Fund for Scientific Research (FWO), Flanders, Belgium 2016 – 2019
-Based at KU Leuven, Belgium
+Based at KU Leuven, Belgium  
 Project title: Mapping the winds of evolved stars
 
 ### Postdoctoral Fellow, KU Leuven, Leuven, Belgium 2016
@@ -21,16 +23,16 @@ probing of unique chemical laboratories, led by Leen Decin
 
 ## EDUCATION
 ### Onsala Space Observatory, Chalmers University of Technology, Göteborg, Sweden 2011 – 2016
-Doctor of Philosophy
-Supervisors: Kay Justtanont and Hans Olofsson
+Doctor of Philosophy  
+Supervisors: Kay Justtanont and Hans Olofsson  
 Thesis title: Mass loss and molecules: Studies of galactic AGB stars
 
 ### The University of Melbourne, Parkville, Australia 2009 – 2010
-Master of Science (Physics)
+Master of Science (Physics)  
 Thesis title: The Physics of the Tully-Fisher Relation, Supervisor: Rachel Webster
 
 ### The University of Melbourne, Parkville, Australia 2006 – 2008
-Bachelor of Science
+Bachelor of Science  
 Major in Mathematics and Statistics (Pure Mathematics), Minor in Physics
 
 ## REFEREED PUBLICATIONS
@@ -101,16 +103,20 @@ Melbourne, Australia
 * 2012, “Stiftelsen Hiera-Retzius stipendiefond” grant of 15 000 kr from The Royal Swedish Academy of Sciences (KVA)
 
 ## SUPERVISION
-* Arnout Coenegrachts, “Irregular seasoning: the clumps of salt around IK Tau” 2021 – 2022 at KU Leuven
-* Nurul Husna Mohammad Bokhari, “Silicon monoxide in the winds of evolved stars” 2021 – 2022 at KU Leuven
+* Arnout Coenegrachts (MSc) thesis research project, “Irregular seasoning: the clumps of salt around IK Tau”   
+completed over the Belgian academic year 2021-2022 at KU Leuven
+* Nurul Husna Mohammad Bokhari (MSc) thesis research project, “Silicon monoxide in the winds of evolved stars”   
+completed over the Belgian academic year 2021-2022 at KU Leuven
 * Final year undergraduate research projects 2023 at Monash University.
-* Lisa Decock (MSc), thesis research project “In-depth comparison of two high mass-loss rate AGB stars” undertaken
-over the Belgian academic year 2020-2021 at KU Leuven.
+* Lisa Decock (MSc), thesis research project “In-depth comparison of two high mass-loss rate AGB stars”   
+completed over the Belgian academic year 2020-2021 at KU Leuven.
 * Ciara O’Sullivan (MSc), co-supervisor of thesis research project “ATOMIUM: Tracing the origins of dust in evolved
-stars” completed over the Belgian academic years 2019–2021 at KU Leuven.
+stars”   
+completed over the Belgian academic years 2019–2021 at KU Leuven.
 * Final year undergraduate research projects 2018-2020 at KU Leuven.
 * Siemen Burssens (MSc) thesis research project “Molecular analysis of the oxygen-rich AGB star V1300 Aql: CO, SiS
-and CS” completed over the Belgian academic year 2016–2017 at KU Leuven.
+and CS”   
+completed over the Belgian academic year 2016–2017 at KU Leuven.
 
 ## TEACHING
 * Course Co-coordinator, Research Projects in Theoretical Astrophysics (Masters level), Institute of Astronomy, KU Leuven, Belgium	2021 – present
@@ -126,9 +132,9 @@ and CS” completed over the Belgian academic year 2016–2017 at KU Leuven.
 
 ## OUTREACH
 * ESO Messenger article 2022
-* Astronomy on Tap, Bonn 2021
+* Astronomy on Tap, Bonn 2021  
 https://www.youtube.com/watch?v=DiPoVfm9QhQ
-* Jodcast Interview 2020
+* Jodcast Interview 2020  
 http://www.jodcast.net/archive/202011/
 * Pint of Science, Leuven, Belgium 2019
 * School Visits and Ladies@Science, KU Leuven, Belgium 2019
@@ -141,20 +147,20 @@ http://www.jodcast.net/archive/202011/
 * In-2-Science Mentor, Melbourne, Australia 2007
 
 ## OTHER ROLES AND RESPONSIBILITIES
-* Member of the ASA Comms Working Group 2023 – present
+* Member of the ASA Comms Working Group 2023 – present  
 I served on the Communications Working Group for the Astronomical Society of Australia.
-* Member of the ASTRO 3D Equity, Diversity and Inclusion Committee 2023 – present
+* Member of the ASTRO 3D Equity, Diversity and Inclusion Committee 2023 – present  
 * ASTRO 3D is the Australian Research Council Centre of Excellence for All Sky Astrophysics in 3 Dimensions.
-* Member of ADACS Time Allocation Committee 2023 – 2024
+* Member of ADACS Time Allocation Committee 2023 – 2024  
 I am serving on the Time Allocation Committee for the Astronomy Data and Computing Services.
-* Mentoring 2021 – present
+* Mentoring 2021 – present  
 I organised a Speed-Meet-a-Mentor session at DELVE the online conference I organised in 2021. I participated as a
 mentor in the Astronomical Society of Australia’s Speed Meet-a-Mentor event (2023).
-* Member of educational review panel (COBRA) for Masters in Astronomy & Astrophysics 2022
+* Member of educational review panel (COBRA) for Masters in Astronomy & Astrophysics 2022  
 I was part of the panel discussing the quality of educational outcomes and programme structure at KU Leuven.
-* Member of the LOC for the IAU Symposium 366: The Origin of Outflows in Evolved Stars 2021
+* Member of the LOC for the IAU Symposium 366: The Origin of Outflows in Evolved Stars 2021  
 I served on Local Organising Committee for the symposium held in November 2021 (iaus366.be).
-* Panel member of the European Southern Observatory Observing Programmes Committee 2021
+* Panel member of the European Southern Observatory Observing Programmes Committee 2021  
 I served on the ESO OPC for Category D - Stellar Evolution during Periods 108 and 109. For Period 109 I had the
 role of co-chair for my panel
 * Chair of Scientific and "Local" Organising Committees for DELVE: Death-throes of EvoLved stars, a Virtual Encounter
@@ -163,7 +169,7 @@ role of co-chair for my panel
     * Talks are available on YouTube: https://www.youtube.com/playlist?list=PLrGAIWCGSKlC9ja1CMZzzLWddWwbwwhty 
 * Refereeing 2018 - present
     * Grant Proposals
-        * The Australian Research Counci
+        * The Australian Research Council
         * The National Science Centre Poland
     * Journal Manuscripts
         * Astronomy & Astrophysics,
