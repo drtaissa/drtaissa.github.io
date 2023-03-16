@@ -5,6 +5,9 @@ layout: default
 # Dr Taïssa Danilovich
 ## EMPLOYMENT
 
+### Discovery Early Career Researcher Award Fellow (DECRA), Australia 2023 - present
+Based at Monash University; Project title: Understanding the birth of new elements by observing dying stars
+
 ### Senior Postdoctoral Fellow of the Fund for Scientific Research (FWO), Flanders, Belgium 2019 – present
 Based at KU Leuven, Belgium; Project title: Winds of Change: The evolving winds of AGB stars
 
