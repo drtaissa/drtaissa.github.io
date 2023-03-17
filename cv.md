@@ -133,9 +133,9 @@ completed over the Belgian academic year 2016–2017 at KU Leuven.
 ## OUTREACH
 * ESO Messenger article 2022
 * Astronomy on Tap, Bonn 2021  
-https://www.youtube.com/watch?v=DiPoVfm9QhQ
+<https://www.youtube.com/watch?v=DiPoVfm9QhQ>
 * Jodcast Interview 2020  
-http://www.jodcast.net/archive/202011/
+<http://www.jodcast.net/archive/202011/>
 * Pint of Science, Leuven, Belgium 2019
 * School Visits and Ladies@Science, KU Leuven, Belgium 2019
 * Day of Science (Dag van de Wetenschap), Leuven, Belgium 2018
@@ -166,9 +166,9 @@ role of co-chair for my panel
 * Chair of Scientific and "Local" Organising Committees for DELVE: Death-throes of EvoLved stars, a Virtual Encounter
     * Ran 12–16 April 2021 with 187 registered attendees.
     * Conference website:  
-      https://fys.kuleuven.be/ster/events/conferences/2021/delve/delve-the-death-throes-of-evolved-stars-a-virtual-encounter 
+      <https://fys.kuleuven.be/ster/events/conferences/2021/delve/delve-the-death-throes-of-evolved-stars-a-virtual-encounter> 
     * Talks are available on YouTube:   
-      https://www.youtube.com/playlist?list=PLrGAIWCGSKlC9ja1CMZzzLWddWwbwwhty 
+      <https://www.youtube.com/playlist?list=PLrGAIWCGSKlC9ja1CMZzzLWddWwbwwhty>
 * Refereeing 2018 - present
     * Grant Proposals
         * The Australian Research Council
