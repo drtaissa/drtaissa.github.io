@@ -132,10 +132,10 @@ completed over the Belgian academic year 2016–2017 at KU Leuven.
 
 ## OUTREACH
 * ESO Messenger article 2022
-* Astronomy on Tap, Bonn 2021
-<https://www.youtube.com/watch?v=DiPoVfm9QhQ>
-* Jodcast Interview 2020
-<http://www.jodcast.net/archive/202011/>
+* Astronomy on Tap, Bonn 2021  
+    <https://www.youtube.com/watch?v=DiPoVfm9QhQ>
+* Jodcast Interview 2020  
+    <http://www.jodcast.net/archive/202011/>
 * Pint of Science, Leuven, Belgium 2019
 * School Visits and Ladies@Science, KU Leuven, Belgium 2019
 * Day of Science (Dag van de Wetenschap), Leuven, Belgium 2018
@@ -149,8 +149,8 @@ completed over the Belgian academic year 2016–2017 at KU Leuven.
 ## OTHER ROLES AND RESPONSIBILITIES
 * Member of the ASA Comms Working Group 2023 – present  
 I served on the Communications Working Group for the Astronomical Society of Australia.
-* Member of the ASTRO 3D Equity, Diversity and Inclusion Committee 2023 – present  
-* ASTRO 3D is the Australian Research Council Centre of Excellence for All Sky Astrophysics in 3 Dimensions.
+* Member of the ASTRO 3D Equity, Diversity and Inclusion Committee 2023 – present   
+ ASTRO 3D is the Australian Research Council Centre of Excellence for All Sky Astrophysics in 3 Dimensions.
 * Member of ADACS Time Allocation Committee 2023 – 2024  
 I am serving on the Time Allocation Committee for the Astronomy Data and Computing Services.
 * Mentoring 2021 – present  
