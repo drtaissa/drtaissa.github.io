@@ -165,8 +165,10 @@ I served on the ESO OPC for Category D - Stellar Evolution during Periods 108 an
 role of co-chair for my panel
 * Chair of Scientific and "Local" Organising Committees for DELVE: Death-throes of EvoLved stars, a Virtual Encounter
     * Ran 12–16 April 2021 with 187 registered attendees.
-    * Conference website: https://fys.kuleuven.be/ster/events/conferences/2021/delve/delve-the-death-throes-of-evolved-stars-a-virtual-encounter 
-    * Talks are available on YouTube: https://www.youtube.com/playlist?list=PLrGAIWCGSKlC9ja1CMZzzLWddWwbwwhty 
+    * Conference website:  
+      https://fys.kuleuven.be/ster/events/conferences/2021/delve/delve-the-death-throes-of-evolved-stars-a-virtual-encounter 
+    * Talks are available on YouTube:   
+      https://www.youtube.com/playlist?list=PLrGAIWCGSKlC9ja1CMZzzLWddWwbwwhty 
 * Refereeing 2018 - present
     * Grant Proposals
         * The Australian Research Council
