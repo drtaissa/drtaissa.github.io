@@ -132,9 +132,9 @@ completed over the Belgian academic year 2016–2017 at KU Leuven.
 
 ## OUTREACH
 * ESO Messenger article 2022
-* Astronomy on Tap, Bonn 2021  
+* Astronomy on Tap, Bonn 2021
 <https://www.youtube.com/watch?v=DiPoVfm9QhQ>
-* Jodcast Interview 2020  
+* Jodcast Interview 2020
 <http://www.jodcast.net/archive/202011/>
 * Pint of Science, Leuven, Belgium 2019
 * School Visits and Ladies@Science, KU Leuven, Belgium 2019
