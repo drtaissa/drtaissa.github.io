@@ -114,7 +114,7 @@ Melbourne, Australia
 * 2012, “Stiftelsen Hiera-Retzius stipendiefond” grant of 15 000 kr from The Royal Swedish Academy of Sciences (KVA)
 
 ## SUPERVISION
-# Masters Thesis Projects
+### Masters Thesis Projects
 * Arnout Coenegrachts (MSc) thesis research project, “Irregular seasoning: the clumps of salt around IK Tau”   
 completed over the Belgian academic year 2021-2022 at KU Leuven
 * Nurul Husna Mohammad Bokhari (MSc) thesis research project, “Silicon monoxide in the winds of evolved stars”   
@@ -128,9 +128,9 @@ completed over the Belgian academic years 2019–2021 at KU Leuven.
 and CS”   
 completed over the Belgian academic year 2016–2017 at KU Leuven.
 
-# Various undergraduate research projects at Monash University (from 2023)
+### Various undergraduate research projects at Monash University (from 2023)
 
-# Various final year undergraduate research projects at KU Leuven (2018-2020)
+### Various final year undergraduate research projects at KU Leuven (2018-2020)
 
 ## TEACHING
 * Course Co-coordinator, Research Projects in Theoretical Astrophysics (Masters level), Institute of Astronomy, KU Leuven, Belgium	2021 – 2022
