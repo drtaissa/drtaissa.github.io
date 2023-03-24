@@ -115,18 +115,11 @@ Melbourne, Australia
 
 ## SUPERVISION
 ### Masters Thesis Projects
-* Arnout Coenegrachts, “Irregular seasoning: the clumps of salt around IK Tau”   
-completed over the Belgian academic year 2021-2022 at KU Leuven
-* Nurul Husna Mohammad Bokhari, “Silicon monoxide in the winds of evolved stars”   
-completed over the Belgian academic year 2021-2022 at KU Leuven
-* Lisa Decock, “In-depth comparison of two high mass-loss rate AGB stars”   
-completed over the Belgian academic year 2020-2021 at KU Leuven.
-* Ciara O’Sullivan (co-supervisor), “ATOMIUM: Tracing the origins of dust in evolved
-stars”   
-completed over the Belgian academic years 2019–2021 at KU Leuven.
-* Siemen Burssens, “Molecular analysis of the oxygen-rich AGB star V1300 Aql: CO, SiS
-and CS”   
-completed over the Belgian academic year 2016–2017 at KU Leuven.
+* Arnout Coenegrachts, “Irregular seasoning: the clumps of salt around IK Tau”, 2021-2022, KU Leuven
+* Nurul Husna Mohammad Bokhari, “Silicon monoxide in the winds of evolved stars”, 2021-2022, KU Leuven
+* Lisa Decock, “In-depth comparison of two high mass-loss rate AGB stars”, 2020-2021, KU Leuven
+* Ciara O’Sullivan (co-supervisor), “ATOMIUM: Tracing the origins of dust in evolved stars”, 2019–2021, KU Leuven
+* Siemen Burssens, “Molecular analysis of the oxygen-rich AGB star V1300 Aql: CO, SiS and CS”, 2016-2017, KU Leuven
 
 ### Various undergraduate research projects at Monash University (2023-) 
 
