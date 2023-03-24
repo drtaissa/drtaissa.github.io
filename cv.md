@@ -5,7 +5,7 @@ layout: default
 # Dr Taïssa Danilovich
 ## EMPLOYMENT
 
-### Discovery Early Career Researcher Award Fellow (DECRA), Australia 2023 - present
+### Australian Research Council (ARC) Discovery Early Career Researcher Award Fellow (DECRA), Australia 2023 - present
 Based at Monash University;  
 Project title: Understanding the birth of new elements by observing dying stars
 
