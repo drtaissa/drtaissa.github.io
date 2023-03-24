@@ -83,26 +83,26 @@ Melbourne, Australia
  * May 2011, *“Do disk galaxies have different central velocity dispersions at a given rotational velocity?”* 218th Meeting of the American Astronomical Society, Boston, USA
  * September 2010, *“The importance of understanding the Tully-Fisher relation”*, UpSkills GR Poster Competition, 2nd Place, the Melbourne School of Graduate Research
 
-## CONFERENCE PROCEEDINGSConference Proceedings
+## CONFERENCE PROCEEDINGS
 
 * *The distribution of carbonaceous molecules and SiN around the S-type AGB star W Aquilae*
-   __T. Danilovich__, M. Van de Sande, A. M. S. Richards and the ATOMIUM Consortium
-   “The Origin of Outflows in Evolved Stars”, Proceedings of the International Astronomical Union, 16(S366), 178-183, 2020
+    __T. Danilovich__, M. Van de Sande, A. M. S. Richards and the ATOMIUM Consortium
+    “The Origin of Outflows in Evolved Stars”, Proceedings of the International Astronomical Union, 16(S366), 178-183, 2020
 
 * *Unravelling the sulphur chemistry of AGB stars*  
     __T. Danilovich__  
     “Why Galaxies Care About AGB Stars: A Continuing Challenge through Cosmic Time”, Proceedings of the International Astronomical Union, 14(S343), 379-380, 2019
     
 * *ALMA spectrum of the extreme OH/IR star OH 26.5+0.6*  
-    __K. Justtanont, S. Muller, M.J. Barlow, D. Engels, D.A. García-Hernández, M.A.T. Groenewegen, M. Matsuura, H. Olofsson, D. Teyssier, I. Marti-Vidal, T. Khouri, M. Van de Sande, W. Homan, T. Danilovich, A. de Koter, L. Decin, L.B.F.M Waters, R. Stancliffe, W. Vlemmings, P. Royer, F. Kerschbaum, C. Paladini, J. Blommaert, and R. de Nutte__  
+    K. Justtanont, S. Muller, M.J. Barlow, D. Engels, D.A. García-Hernández, M.A.T. Groenewegen, M. Matsuura, H. Olofsson, D. Teyssier, I. Marti-Vidal, T. Khouri, M. Van de Sande, W. Homan, __T. Danilovich__, A. de Koter, L. Decin, L.B.F.M Waters, R. Stancliffe, W. Vlemmings, P. Royer, F. Kerschbaum, C. Paladini, J. Blommaert, and R. de Nutte  
     “Why Galaxies Care About AGB Stars: A Continuing Challenge through Cosmic Time”, Proceedings of the International Astronomical Union, 14(S343), 436-437, 2019
     
 * *AGB outflows as tests of chemical kinetics and radiative transfer models*  
-    __M. Van de Sande, T. Danilovich, and L. Decin__  
+    M. Van de Sande, __T. Danilovich__, and L. Decin
     “Laboratory Astrophysics: From Observations to Interpretation”, Proceedings of the International Astronomical Union, 15(S350), 2019
     
 * *Detailed Modelling of the Circumstellar Envelope of the S-type AGB Star W Aquilae*  
-    __T. Danilovich, P. Bergman, K. Justtanont, R. Lombaert M. Maercker, H. Olofsson, S. Ramstedt and P. Royer__  
+    __T. Danilovich__, P. Bergman, K. Justtanont, R. Lombaert M. Maercker, H. Olofsson, S. Ramstedt and P. Royer 
     “Why Galaxies Care about AGB Stars III: A Closer Look in Space and Time”, Proceedings of a conference held 28 July – 1 August 2014, at University Campus, Vienna, Austria. Edited by F. Kerschbaum, R. F. Wing, and J. Hron. ASP Conference Series, Vol. 497. San Francisco: Astronomical Society of the Pacific, 2015
 
 ## GRANTS AWARDED
