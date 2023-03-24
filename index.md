@@ -1,5 +1,5 @@
 ---
-title: Dr Taissa Danilovich
+title: Dr Taïssa Danilovich
 layout: default
 ---
 
