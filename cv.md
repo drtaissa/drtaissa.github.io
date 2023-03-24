@@ -128,7 +128,7 @@ completed over the Belgian academic years 2019–2021 at KU Leuven.
 and CS”   
 completed over the Belgian academic year 2016–2017 at KU Leuven.
 
-### Various undergraduate research projects at Monash University (from 2023)
+### Various undergraduate research projects at Monash University (from 2023) 
 
 ### Various final year undergraduate research projects at KU Leuven (2018-2020)
 
