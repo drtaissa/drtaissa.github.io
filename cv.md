@@ -85,7 +85,7 @@ Melbourne, Australia
 
 ## CONFERENCE PROCEEDINGS
 
-* *The distribution of carbonaceous molecules and SiN around the S-type AGB star W Aquilae*
+* *The distribution of carbonaceous molecules and SiN around the S-type AGB star W Aquilae*  
     __T. Danilovich__, M. Van de Sande, A. M. S. Richards and the ATOMIUM Consortium
     “The Origin of Outflows in Evolved Stars”, Proceedings of the International Astronomical Union, 16(S366), 178-183, 2020
 
