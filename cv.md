@@ -121,9 +121,9 @@ Melbourne, Australia
 * Ciara O’Sullivan (co-supervisor), “ATOMIUM: Tracing the origins of dust in evolved stars”, 2019–2021, KU Leuven
 * Siemen Burssens, “Molecular analysis of the oxygen-rich AGB star V1300 Aql: CO, SiS and CS”, 2016-2017, KU Leuven
 
-### Various undergraduate research projects at Monash University (2023-) 
+### Various undergraduate research projects at Monash University (2023--) 
 
-### Various final year undergraduate research projects at KU Leuven (2018-2020)
+### Various final year undergraduate research projects at KU Leuven (2018--2020)
 
 ## TEACHING
 * Course Co-coordinator, Research Projects in Theoretical Astrophysics (Masters level), Institute of Astronomy, KU Leuven, Belgium	2021 – 2022
