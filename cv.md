@@ -115,20 +115,20 @@ Melbourne, Australia
 
 ## SUPERVISION
 ### Masters Thesis Projects
-* Arnout Coenegrachts (MSc) thesis research project, “Irregular seasoning: the clumps of salt around IK Tau”   
+* Arnout Coenegrachts, “Irregular seasoning: the clumps of salt around IK Tau”   
 completed over the Belgian academic year 2021-2022 at KU Leuven
-* Nurul Husna Mohammad Bokhari (MSc) thesis research project, “Silicon monoxide in the winds of evolved stars”   
+* Nurul Husna Mohammad Bokhari, “Silicon monoxide in the winds of evolved stars”   
 completed over the Belgian academic year 2021-2022 at KU Leuven
-* Lisa Decock (MSc), thesis research project “In-depth comparison of two high mass-loss rate AGB stars”   
+* Lisa Decock, “In-depth comparison of two high mass-loss rate AGB stars”   
 completed over the Belgian academic year 2020-2021 at KU Leuven.
-* Ciara O’Sullivan (MSc), co-supervisor of thesis research project “ATOMIUM: Tracing the origins of dust in evolved
+* Ciara O’Sullivan (co-supervisor), “ATOMIUM: Tracing the origins of dust in evolved
 stars”   
 completed over the Belgian academic years 2019–2021 at KU Leuven.
-* Siemen Burssens (MSc) thesis research project “Molecular analysis of the oxygen-rich AGB star V1300 Aql: CO, SiS
+* Siemen Burssens, “Molecular analysis of the oxygen-rich AGB star V1300 Aql: CO, SiS
 and CS”   
 completed over the Belgian academic year 2016–2017 at KU Leuven.
 
-### Various undergraduate research projects at Monash University (from 2023) 
+### Various undergraduate research projects at Monash University (2023-) 
 
 ### Various final year undergraduate research projects at KU Leuven (2018-2020)
 
