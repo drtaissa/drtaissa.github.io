@@ -6,11 +6,11 @@ layout: default
 ## EMPLOYMENT
 
 ### Australian Research Council (ARC) Discovery Early Career Researcher Award Fellow (DECRA), Australia 2023 - present
-Based at Monash University;  
+Based at Monash University
 Project title: Understanding the birth of new elements by observing dying stars
 
 ### Senior Postdoctoral Fellow of the Fund for Scientific Research (FWO), Flanders, Belgium 2019 – present
-Based at KU Leuven, Belgium;   
+Based at KU Leuven, Belgium
 Project title: Winds of Change: The evolving winds of AGB stars
 
 ### Postdoctoral Fellow of the Fund for Scientific Research (FWO), Flanders, Belgium 2016 – 2019
@@ -39,6 +39,13 @@ Major in Mathematics and Statistics (Pure Mathematics), Minor in Physics
 [ADS list of papers]("https://ui.adsabs.harvard.edu/search/q=%20au")
 
 ## ORAL PRESENTATIONS
+* February 2023, *“Wind shaping and other observational tracers of binary companions to AGB stars”*, Phantom and MCFOST Users Workshop, Melbourne, Australia
+* November 2021, *“The distribution of carbonaceous molecules and SiN around the S-type AGB star W Aql”*, IAU Symposium 366: The origin of outflows in evolved stars, Online
+* July 2021, invited, *“Late Stellar Evolution”*, The Future of Airborne Infrared/Submm Astronomy: Prospects and Opportunities, Online
+* July 2021, *“Halide molecules around the S-type AGB stars”*, Astrochemical Frontiers – Quarantine Edition 2, Online
+* June 2021, invited, *“Circumstellar structure & dust formation”*, GAPS 2021 – unsolved problems in red Giants And suPergiantS, Online
+* April 2021, *“Halide molecules around the S-type AGB star W Aquilae”*, DELVE: Death-throes of EvoLved stars, a Virtual Encounter, Online
+* March 2021, *“Halide molecules around the S-type AGB star W Aquilae”*, Seminar, KU Leuven, Belgium
 * June 2020, *“Measuring molecular and isotopologue abundances in the circumstellar envelopes of AGB stars”*,
 European Astronomical Society Annual Meeting, Online
 * June 2020, *“Metal oxides around R Dor: a tale of dust precursors”*, Astrochemical Frontiers — Quarantine Edition,
@@ -78,6 +85,10 @@ Melbourne, Australia
 
 ## CONFERENCE PROCEEDINGSConference Proceedings
 
+* *The distribution of carbonaceous molecules and SiN around the S-type AGB star W Aquilae*
+   __T. Danilovich__, M. Van de Sande, A. M. S. Richards and the ATOMIUM Consortium
+   “The Origin of Outflows in Evolved Stars”, Proceedings of the International Astronomical Union, 16(S366), 178-183, 2020
+
 * *Unravelling the sulphur chemistry of AGB stars*  
     __T. Danilovich__  
     “Why Galaxies Care About AGB Stars: A Continuing Challenge through Cosmic Time”, Proceedings of the International Astronomical Union, 14(S343), 379-380, 2019
@@ -103,24 +114,27 @@ Melbourne, Australia
 * 2012, “Stiftelsen Hiera-Retzius stipendiefond” grant of 15 000 kr from The Royal Swedish Academy of Sciences (KVA)
 
 ## SUPERVISION
+# Masters Thesis Projects
 * Arnout Coenegrachts (MSc) thesis research project, “Irregular seasoning: the clumps of salt around IK Tau”   
 completed over the Belgian academic year 2021-2022 at KU Leuven
 * Nurul Husna Mohammad Bokhari (MSc) thesis research project, “Silicon monoxide in the winds of evolved stars”   
 completed over the Belgian academic year 2021-2022 at KU Leuven
-* Final year undergraduate research projects 2023 at Monash University.
 * Lisa Decock (MSc), thesis research project “In-depth comparison of two high mass-loss rate AGB stars”   
 completed over the Belgian academic year 2020-2021 at KU Leuven.
 * Ciara O’Sullivan (MSc), co-supervisor of thesis research project “ATOMIUM: Tracing the origins of dust in evolved
 stars”   
 completed over the Belgian academic years 2019–2021 at KU Leuven.
-* Final year undergraduate research projects 2018-2020 at KU Leuven.
 * Siemen Burssens (MSc) thesis research project “Molecular analysis of the oxygen-rich AGB star V1300 Aql: CO, SiS
 and CS”   
 completed over the Belgian academic year 2016–2017 at KU Leuven.
 
+# Various undergraduate research projects at Monash University (from 2023)
+
+# Various final year undergraduate research projects at KU Leuven (2018-2020)
+
 ## TEACHING
-* Course Co-coordinator, Research Projects in Theoretical Astrophysics (Masters level), Institute of Astronomy, KU Leuven, Belgium	2021 – present
-* Tutor, Stellar Atmospheres and Stellar Winds (Masters level), Institute of Astronomy, KU Leuven, Belgium 2017 – present  
+* Course Co-coordinator, Research Projects in Theoretical Astrophysics (Masters level), Institute of Astronomy, KU Leuven, Belgium	2021 – 2022
+* Tutor, Stellar Atmospheres and Stellar Winds (Masters level), Institute of Astronomy, KU Leuven, Belgium 2017 – 2022
 * Teaching Assistant, Stellar Physics (Masters level), Dept of Earth and Space Sciences, Chalmers University of Technology, Sweden 2014 – 2015  
 * Tutor, Space Science and Techniques (Masters level), Dept of Earth and Space Sciences, Chalmers University of Technology, Sweden 2012 – 2016  
 * Exam Marker, first year undergraduate physics, School of Physics, University of Melbourne, Parkville, Australia 2009 – 2011  
@@ -131,7 +145,10 @@ completed over the Belgian academic year 2016–2017 at KU Leuven.
 * Private Tutor, Mathematics, Physics and Chemistry, Australia 2006 – 2010  
 
 ## OUTREACH
-* ESO Messenger article 2022
+* ESO Messenger article 2022 
+    *ATOMIUM: ALMA Tracing the Origins of Molecules In dUst forming oxygen-rich M-type stars*
+    Decin, Gottlieb, Richards, Baudry, Danilovich, et al
+    Messenger, issue 189 (December 2022), p3–8
 * Astronomy on Tap, Bonn 2021  
     <https://www.youtube.com/watch?v=DiPoVfm9QhQ>
 * Jodcast Interview 2020  
@@ -148,21 +165,12 @@ completed over the Belgian academic year 2016–2017 at KU Leuven.
 
 ## OTHER ROLES AND RESPONSIBILITIES
 * Member of the ASA Comms Working Group 2023 – present  
-I served on the Communications Working Group for the Astronomical Society of Australia.
 * Member of the ASTRO 3D Equity, Diversity and Inclusion Committee 2023 – present   
- ASTRO 3D is the Australian Research Council Centre of Excellence for All Sky Astrophysics in 3 Dimensions.
 * Member of ADACS Time Allocation Committee 2023 – 2024  
-I am serving on the Time Allocation Committee for the Astronomy Data and Computing Services.
 * Mentoring 2021 – present  
-I organised a Speed-Meet-a-Mentor session at DELVE the online conference I organised in 2021. I participated as a
-mentor in the Astronomical Society of Australia’s Speed Meet-a-Mentor event (2023).
 * Member of educational review panel (COBRA) for Masters in Astronomy & Astrophysics 2022  
-I was part of the panel discussing the quality of educational outcomes and programme structure at KU Leuven.
-* Member of the LOC for the IAU Symposium 366: The Origin of Outflows in Evolved Stars 2021  
-I served on Local Organising Committee for the symposium held in November 2021 (iaus366.be).
-* Panel member of the European Southern Observatory Observing Programmes Committee 2021  
-I served on the ESO OPC for Category D - Stellar Evolution during Periods 108 and 109. For Period 109 I had the
-role of co-chair for my panel
+* Member of the LOC for the IAU Symposium 366: The Origin of Outflows in Evolved Stars 2021 
+* Panel member of the European Southern Observatory Observing Programmes Committee 2021
 * Chair of Scientific and "Local" Organising Committees for DELVE: Death-throes of EvoLved stars, a Virtual Encounter
     * Ran 12–16 April 2021 with 187 registered attendees.
     * Conference website:  
@@ -179,7 +187,7 @@ role of co-chair for my panel
         * The Astrophysical Journal,
         * The Astrophysical Journal Letters and
         * Revista Mexicana de Astronomía y Astrofísica. 
-* Research group organisational duties 2017 – present
+* Research group organisational duties @ KU Leuven 2017 – 2022
 * Astronomer on Duty, Mercator, La Palma, Spain 2017
 * Astronomer on Duty, APEX, Chile 2012
 * Member of the Women in Physics Committee, University of Melbourne, Parkville 2010 – 2011
