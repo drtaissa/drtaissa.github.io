@@ -3,7 +3,8 @@ title: Dr Taïssa Danilovich
 layout: default
 ---
 
-I am an ARC DECRA Fellow based at at Monash University in Melbourne, Australia. I study evolved stars and the molecules around them. In particular, I am interested in how the molecular content around these stars changes over time, forms dust, and ultimately enriches the interstellar medium, hence contributing to the chemical evolution of the galaxy.
+I am an ARC DECRA Fellow based at at Monash University in Melbourne, Australia. I study evolved stars and the molecules around them. These stars expel newly formed material into the galaxy, which goes on to make the next generation of stars and planets. In particular, I use millimetre and submillimetre observations of molecular emission to understand things like the mass-loss rates of asymptotic giant branch stars, dust formation, their binary companions and isotopic ratios. The latter can be compared with models of stellar nucleosynthesis to improve our understanding of nucleosynthesis and to derive properties like the initial masses of these stars. I am also interested in how the molecular content around these stars changes over time and ultimately enriches the interstellar medium, hence contributing to the chemical evolution of the galaxy.
+
 
 You can find me on the Fediverse [@StellarAlchemist@astrodon.social](https://astrodon.social/@StellarAlchemist) and Twitter [@stellalchemist](https://twitter.com/stellalchemist), though I do not post regularly.
 
