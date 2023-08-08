@@ -1,5 +1,5 @@
 ---
-title: Dr Taïssa Danilovich
+title: Research projects with Dr Taïssa Danilovich
 layout: default
 ---
 
@@ -7,9 +7,11 @@ I supervise various student projects at the School of Physics and Astronomy, Mon
 
 In general, I work in the area of asymptotic giant branch (AGB) stars, which are a late evolutionary stage of stars similar to our Sun. Such a star will expel a lot of material during its death throes, which goes on to form an expanding circumstellar envelope around the star. All sorts of molecules form in these circumstellar envelopes and they are a one of the main places where cosmic dust first forms. Much of my research focusses on the molecular content of AGB circumstellar envelopes and what different molecules can tell us about the stars they originated from.
 
-# Winter Vacation Research Scholarship 2023
+# Past projects
 
-## Molecular lines in the AGB star AFGL 5379 as observed with the APEX telescope
+## Winter Vacation Research Scholarship 2023
+
+### Molecular lines in the AGB star AFGL 5379 as observed with the APEX telescope
 
 <img src="/images/APEX.JPG" align="right" width="400px" hspace="10" alt="A photo of the APEX telescope, located in Chile." title="The APEX telescope, located on Llano de Chajnantor in northern Chile.">
 AFGL 5379 is an AGB star that started its life with an intermediate mass (somewhere between 4 and 8 solar masses). It is currently what is known as an "extreme OH/IR star", which means that it has a very thick and dusty circumstellar envelope. The molecular content of stars like this has not yet been studied in great detail, however there are some hints that more unusual molecules might form in their dusty envelopes.
