@@ -39,6 +39,11 @@ Major in Mathematics and Statistics (Pure Mathematics), Minor in Physics
 [ADS list of papers]("https://ui.adsabs.harvard.edu/search/q=%20au")
 
 ## ORAL PRESENTATIONS
+* February 2024, invited, *“Beyond gravity: What can Phantom and MCFOST models tell us about observables in binary AGB systems”*, Joint Franco-Australian 5th Phantom and MCFOST Users Workshop, Melbourne, Australia
+* September 2023, *“Isotopic ratios from (sub)millimetre observations of AGB stars”*, Nuclei in the Cosmos XVII, Daejeon, South Korea
+* July 2023, *“Using astrochemistry to understand orbital properties of AGB stars”*, Annual Scientific Meeting of the Astronomical Society of Australia, Sydney, Australia
+* June 2023, *“Using chemistry to constrain a (highly eccentric) binary orbit”*, Seminar, Macquarie University, Sydney, Australia
+* June 2023, *“Chemical Tracers of an Eccentric Binary Orbit”*, Seminar, Monash University, Melbourne, Australia (video)
 * February 2023, *“Wind shaping and other observational tracers of binary companions to AGB stars”*, Phantom and MCFOST Users Workshop, Melbourne, Australia
 * November 2021, *“The distribution of carbonaceous molecules and SiN around the S-type AGB star W Aql”*, IAU Symposium 366: The origin of outflows in evolved stars, Online
 * July 2021, invited, *“Late Stellar Evolution”*, The Future of Airborne Infrared/Submm Astronomy: Prospects and Opportunities, Online
@@ -84,7 +89,10 @@ Melbourne, Australia
  * September 2010, *“The importance of understanding the Tully-Fisher relation”*, UpSkills GR Poster Competition, 2nd Place, the Melbourne School of Graduate Research
 
 ## CONFERENCE PROCEEDINGS
-
+* *ALMA explores the inner wind of evolved O-rich stars with two widespread vibrationally excited transitions of water *
+    Alain Baudry, Ka Tat Wong, Sandra Etoka, Anita M. S. Richards, Malcolm D. Gray, Fabrice Herpin, __Taïssa Danilovich__, Sofia Wallström, Leen Decin, Carl A. Gottlieb and the ATOMIUM Consortium
+    “Cosmic Masers: Proper Motion toward the Next-Generation Large Projects”, Proceedings of the International Astronomical Union, (S380), 351-355, 2024
+  
 * *The distribution of carbonaceous molecules and SiN around the S-type AGB star W Aquilae*  
     __T. Danilovich__, M. Van de Sande, A. M. S. Richards and the ATOMIUM Consortium
     “The Origin of Outflows in Evolved Stars”, Proceedings of the International Astronomical Union, 16(S366), 178-183, 2020
@@ -121,11 +129,17 @@ Melbourne, Australia
 * Ciara O’Sullivan (co-supervisor), “ATOMIUM: Tracing the origins of dust in evolved stars”, 2019–2021, KU Leuven
 * Siemen Burssens, “Molecular analysis of the oxygen-rich AGB star V1300 Aql: CO, SiS and CS”, 2016-2017, KU Leuven
 
+### Honours Thesis Projects
+* Nimantha Samaratunge Mudiyanselage, “Binary-enhanced dust production around CW Leo”, 2024, Monash University
+
 ### Various undergraduate research projects at Monash University (2023--) 
 
 ### Various final year undergraduate research projects at KU Leuven (2018--2020)
 
 ## TEACHING
+* Lecturer, (Earth to cosmos - introductory astronomy), School of Physics and Astronomy, Monash University, Australia	2024
+* Examiner, School of Physics and Astronomy, Monash University, Australia	2023
+* Guest Lecturer, School of Physics and Astronomy, Monash University, Australia	2023
 * Course Co-coordinator, Research Projects in Theoretical Astrophysics (Masters level), Institute of Astronomy, KU Leuven, Belgium	2021 – 2022
 * Tutor, Stellar Atmospheres and Stellar Winds (Masters level), Institute of Astronomy, KU Leuven, Belgium 2017 – 2022
 * Teaching Assistant, Stellar Physics (Masters level), Dept of Earth and Space Sciences, Chalmers University of Technology, Sweden 2014 – 2015  
@@ -138,6 +152,11 @@ Melbourne, Australia
 * Private Tutor, Mathematics, Physics and Chemistry, Australia 2006 – 2010  
 
 ## OUTREACH
+* Monash Faculty of Science Alumni event, Online, February 2024
+* Presentation at Astronomical Society of Victoria, Melbourne, Australia, January 2024
+* Girls in Physics Breakfasts, Ballarat & Melbourne, Australia, 2023-24
+* Work Experience, School of Physics and Astronomy, Monash University, Clayton, Australia	2023
+* Pint of Science, Melbourne, Australia, 2023-23
 * ESO Messenger article 2022 
     *ATOMIUM: ALMA Tracing the Origins of Molecules In dUst forming oxygen-rich M-type stars*
     Decin, Gottlieb, Richards, Baudry, Danilovich, et al
@@ -157,6 +176,11 @@ Melbourne, Australia
 * In-2-Science Mentor, Melbourne, Australia 2007
 
 ## OTHER ROLES AND RESPONSIBILITIES
+* Member of the National Committee for Astronomy’s Working Groups for the Decadal Plan, 2024 – present
+* Member of National Organising Committee for Astronomical Society of Australia Annual Scientific Meeting, 2024
+* Chair of the SOC and LOC for the ACES conference, 2024
+* Member of the SOC and LOC for the Joint Franco-Australian 5th Phantom and MCFOST Users Workshop, 2024
+* Interview panels for Monash University postdoc hiring, 2023
 * Member of the ASA Comms Working Group 2023 – present  
 * Member of the ASTRO 3D Equity, Diversity and Inclusion Committee 2023 – present   
 * Member of ADACS Time Allocation Committee 2023 – 2024  
@@ -188,11 +212,13 @@ Melbourne, Australia
 * Member of Student-Staff Liaison Committee, University of Melbourne, Parkville 2007 – 2009
 
 ## MEMBERSHIPS
-* Associate Investigator at the ASTRO3D Australian Research Council Centre of Excellence 2023 – present
-* Junior Member of the International Astronomical Union (IAU) 2020 – present
-* ATOMIUM: ALMA Tracing the Origins of Molecules In dUst-forming oxygen-rich M-type stars 2018 – present
-* DEATHSTAR: DEtermining Accurate mass-loss rates of THermally pulsing AGB STARs 2016 – present
-* Member of the Astronomical Society of Australia (ASA) 2011 – present
+* NESS: The Nearby Evolved Star Survey, 2023 – present
+* SKA Observatory: Our Galaxy Science Working Group, 2023 – present
+* Associate Investigator at the ASTRO3D Australian Research Council Centre of Excellence, 2023 – present
+* Junior Member of the International Astronomical Union (IAU), 2020 – present
+* ATOMIUM: ALMA Tracing the Origins of Molecules In dUst-forming oxygen-rich M-type stars, 2018 – present
+* DEATHSTAR: DEtermining Accurate mass-loss rates of THermally pulsing AGB STARs, 2016 – present
+* Member of the Astronomical Society of Australia (ASA), 2011 – present
 
 <!---
 ## ACCEPTED OBSERVING PROPOSALS AS PRIMARY INVESTIGATOR
