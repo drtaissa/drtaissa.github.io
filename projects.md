@@ -9,7 +9,7 @@ In general, I work in the area of asymptotic giant branch (AGB) stars, which are
 
 # Past projects
 
-## Winter Vacation Research Scholarship 2023
+## Winter Vacation Research Scholarship 2023-24
 
 ### Molecular lines in the AGB star AFGL 5379 as observed with the APEX telescope
 
