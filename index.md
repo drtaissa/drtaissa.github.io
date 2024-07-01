@@ -12,5 +12,5 @@ You can also find me on various profiessional/scientifically-oriented platforms:
 
 * [Orcid](https://orcid.org/0000-0002-1283-6038)
 * [Google Scholar](https://scholar.google.be/citations?user=4eCoh3UAAAAJ&hl=en)
-* [ADS list of papers]((https://ui.adsabs.harvard.edu/user/libraries/O1M6EMItQd2lOcb31CW6AQ))
+* [ADS list of papers](https://ui.adsabs.harvard.edu/user/libraries/O1M6EMItQd2lOcb31CW6AQ)
 * [LinkedIn](https://www.linkedin.com/in/taïssa-danilovich-a8b8262a2/)
