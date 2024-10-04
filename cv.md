@@ -39,6 +39,12 @@ Major in Mathematics and Statistics (Pure Mathematics), Minor in Physics
 [ADS list of papers]("https://ui.adsabs.harvard.edu/search/q=%20au")
 
 ## ORAL PRESENTATIONS
+* November 2024, “The secrets of intermediate-mass AGB stars unveiled through astrochemistry”, Stars in Brisbane, Brisbane, Australia
+* July 2024, “The Salty and Dusty Winds of Intermediate-mass AGB stars”, ACES: Advances in Cool Evolved Stars, Melbourne, Australia
+* July 2024, “Molecular tracers of binaries containing AGB stars”, Annual Scientific Meeting of the Astronomical Society of Australia, Online, Australia
+* June 2024, “The curious case of OH 30.1 -0.7”, ASTRO 3D Science Legacy Meeting, Sydney, Australia
+* April 2024, “A plethora of molecules in AGB stellar winds”, Seminar, University of Southern Queensland, Springfield, Australia
+* April 2024, “Using chemistry to constrain a (highly eccentric) binary orbit”, Seminar, University of Southern Queensland, Toowoomba, Australia
 * February 2024, invited, *“Beyond gravity: What can Phantom and MCFOST models tell us about observables in binary AGB systems”*, Joint Franco-Australian 5th Phantom and MCFOST Users Workshop, Melbourne, Australia
 * September 2023, *“Isotopic ratios from (sub)millimetre observations of AGB stars”*, Nuclei in the Cosmos XVII, Daejeon, South Korea
 * July 2023, *“Using astrochemistry to understand orbital properties of AGB stars”*, Annual Scientific Meeting of the Astronomical Society of Australia, Sydney, Australia
@@ -89,6 +95,8 @@ Melbourne, Australia
  * September 2010, *“The importance of understanding the Tully-Fisher relation”*, UpSkills GR Poster Competition, 2nd Place, the Melbourne School of Graduate Research
 
 ## CONFERENCE PROCEEDINGS
+* *Dust formation during the interaction of binary stars by common envelope Luis C. Bermúdez-Bustamante, Orsola De Marco, Lionel Siess, Daniel J. Price, Miguel González-Bolívar, Mike Y. M. Lau, Chunliang Mu, Ryosuke Hirai, __Taïssa Danilovich__, Mansi Kasliwal “Planetary Nebulae: a Universal Toolbox in the Era of Precision Astrophysics”, Proceedings IAU Symposium No. 384, 2024
+  
 * *ALMA explores the inner wind of evolved O-rich stars with two widespread vibrationally excited transitions of water *
     Alain Baudry, Ka Tat Wong, Sandra Etoka, Anita M. S. Richards, Malcolm D. Gray, Fabrice Herpin, __Taïssa Danilovich__, Sofia Wallström, Leen Decin, Carl A. Gottlieb and the ATOMIUM Consortium
     “Cosmic Masers: Proper Motion toward the Next-Generation Large Projects”, Proceedings of the International Astronomical Union, (S380), 351-355, 2024
@@ -114,6 +122,7 @@ Melbourne, Australia
     “Why Galaxies Care about AGB Stars III: A Closer Look in Space and Time”, Proceedings of a conference held 28 July – 1 August 2014, at University Campus, Vienna, Austria. Edited by F. Kerschbaum, R. F. Wing, and J. Hron. ASP Conference Series, Vol. 497. San Francisco: Astronomical Society of the Pacific, 2015
 
 ## GRANTS AWARDED
+* 2024, Third Place in Monash Faculty of Science Early Career Network Symposium, $500 awarded
 * 2023–2026, Discovery Early Career Researcher Award (DECRA) from the Australian Research Council (ARC)
 * 2019–2022, Senior Postdoctoral Fellow of the Research Foundation Flanders (FWO)
 * 2016–2019, Postdoctoral Fellow of the Research Foundation Flanders (FWO)
@@ -122,6 +131,9 @@ Melbourne, Australia
 * 2012, “Stiftelsen Hiera-Retzius stipendiefond” grant of 15 000 kr from The Royal Swedish Academy of Sciences (KVA)
 
 ## SUPERVISION
+### PhD Students
+* Caitlyn Hardiman, (co-supervisor from September 2024), Monash University
+
 ### Masters Thesis Projects
 * Arnout Coenegrachts, “Irregular seasoning: the clumps of salt around IK Tau”, 2021-2022, KU Leuven
 * Nurul Husna Mohammad Bokhari, “Silicon monoxide in the winds of evolved stars”, 2021-2022, KU Leuven
@@ -156,7 +168,7 @@ Melbourne, Australia
 * Presentation at Astronomical Society of Victoria, Melbourne, Australia, January 2024
 * Girls in Physics Breakfasts, Ballarat & Melbourne, Australia, 2023-24
 * Work Experience, School of Physics and Astronomy, Monash University, Clayton, Australia	2023
-* Pint of Science, Melbourne, Australia, 2023-23
+* Pint of Science, Melbourne, Australia, 2023-24
 * ESO Messenger article 2022 
     *ATOMIUM: ALMA Tracing the Origins of Molecules In dUst forming oxygen-rich M-type stars*
     Decin, Gottlieb, Richards, Baudry, Danilovich, et al
@@ -175,7 +187,7 @@ Melbourne, Australia
 * Open Day Guide, University of Melbourne, Parkville, Australia 2008 – 2009
 * In-2-Science Mentor, Melbourne, Australia 2007
 
-## OTHER ROLES AND RESPONSIBILITIES
+## SERVICE ROLES AND RESPONSIBILITIES
 * Member of the National Committee for Astronomy’s Working Groups for the Decadal Plan, 2024 – present
 * Member of National Organising Committee for Astronomical Society of Australia Annual Scientific Meeting, 2024
 * Chair of the SOC and LOC for the ACES conference, 2024
