@@ -17,6 +17,26 @@ I was interviewed for the University of Manchester’s popular astronomy podcast
 
 [Click here to view](https://youtu.be/xLodr-p7vpw)
 
+### September 2023, “Isotopic ratios from (sub)millimetre observations of AGB stars”, Nuclei in the Cosmos XVII, Daejeon, South Korea
+
+[Click here to view](https://u.pcloud.link/publink/show?code=XZk4icVZdPw2VsJGV9kRqoWXXpJ9sVF4zkL7)
+
+### July 2023, “Using astrochemistry to understand orbital properties of AGB stars”, Annual Scientific Meeting of the Astronomical Society of Australia, Sydney, Australia
+
+[Click here to view](https://www.dropbox.com/scl/fo/u4ltsiigp58la88ctc9fa/h/DAY%202/T2/Day%202_Session%207B.3_Taïssa%20Danilovich.mov?rlkey=amzaq17vsae1m4esvlgar2m0k&e=1&dl=0)
+
+### June 2023, “Chemical Tracers of an Eccentric Binary Orbit”, Seminar, Monash University, Melbourne, Australia
+
+[Click here to view](https://www.youtube.com/watch?v=FuhILOTEYgw)
+
+### February 2023, “Wind shaping and other observational tracers of binary companions to AGB stars”, Phantom and MCFOST Users Workshop, Melbourne, Australia (video)
+
+[Click here to view](https://youtu.be/KLMGt0AMpDM)
+
+### November 2021, “The distribution of carbonaceous molecules and SiN around the S-type AGB star W Aql”, IAU Symposium 366: The origin of outflows in evolved stars, Online
+
+[Click here to view](https://www.youtube.com/watch?v=3f79c8nUPsU&list=PLrGAIWCGSKlA1lreL7a4tLd_chHL0nRa1&index=7&t=4067s)
+
 ### June 2021, “Circumstellar structure & dust formation” (invited talk), GAPS 2021 – unsolved problems in red Giants And suPergiantS, Online
 
 Click on the image below to view on YouTube
