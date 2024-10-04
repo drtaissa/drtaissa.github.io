@@ -15,7 +15,7 @@ I was interviewed for the University of Manchester’s popular astronomy podcast
 
 ### July 2024, “The Salty and Dusty Winds of Intermediate-mass AGB stars”, ACES: Advances in Cool Evolved Stars, Melbourne, Australia
 
-[Click here to view]([video](https://youtu.be/xLodr-p7vpw))
+[Click here to view](https://youtu.be/xLodr-p7vpw)
 
 ### June 2021, “Circumstellar structure & dust formation” (invited talk), GAPS 2021 – unsolved problems in red Giants And suPergiantS, Online
 
