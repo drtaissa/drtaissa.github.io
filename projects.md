@@ -21,9 +21,5 @@ OH 26.5 +0.6 is an AGB star that started its life with an intermediate mass (som
 
 # Past projects
 
-## Winter Vacation Research Scholarship 2023-24
+- Molecular lines in the AGB star AFGL 5379 as observed with the APEX telescope (Winter Vacation Research Scholarship 2023-24)
 
-- Molecular lines in the AGB star AFGL 5379 as observed with the APEX telescope
-
-
-The observations of AFGL 5379 making up this project are two spectral scans taken with the APEX telescope. The goal of such a scan is to detect all the molecular lines that are present in the frequency ranges that were scanned, in this case from 160–210 GHz and 280–375 GHz. The kinds of molecular signatures we expect to find are rotational transition lines. Once all the lines are identified, their general properties should be analysed.
